@@ -30,5 +30,3 @@
   <img src="assets/%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" width=256></img>
   <p><strong>ICodeWR</strong>: 编程学习日志 </p>
 </div>
-
-![输入图片说明](assets/%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
