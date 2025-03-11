@@ -27,6 +27,6 @@
 - 其他：可关注公众号，后台交流。
 
 <div align="center">
-  <img src="assets/%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" width=256></img>
+  <img src="assets/ICodeWR.jpg" width=256></img>
   <p><strong>ICodeWR</strong>: 编程学习日志 </p>
 </div>

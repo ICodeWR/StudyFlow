@@ -25,6 +25,6 @@ If you need to communicate, here are the following ways：
 - Others：You can follow the official account and communicate in the background.
 
 <div align="center">
-  <img src="https://raw.gitcode.com/ICodeWR/StudyFlow/attachment/uploads/58019687-3fc4-42e4-9d5b-b318f83b0754/二维码.jpg " width=256></img>
+  <img src="../../assets/ICodeWR.jpg" width=256></img>
   <p><strong>ICodeWR</strong>: Programming Learning Journal </p>
 </div>
