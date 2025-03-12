@@ -1,14 +1,13 @@
 <div align="center">
   <img src="../../assets/logo.png" width=256></img>
-<p><strong>PLAT</strong>：Python语言与工具</p>
+<p><strong>streamLib</strong>：streamlit学习源代码 </p>
 
 [English](README.md) | 简体中文
 </div>
 
+# streamLib
 
-# PLAT
-
-Python语言与工具学习案例源代码。
+streamlit学习案例源代码集。
 
 ## 目录
 
@@ -21,9 +20,11 @@ Python语言与工具学习案例源代码。
 5. [贡献指南](#贡献指南)
 7. [联系交流](#联系交流)
 
+---
+
 ## 简介
 
-Python语言与工具学习项目案例源代码集，涵盖从Python语言与工具的基本用法，使用技巧等。
+`streamlit`递进式学习项目案例源代码集，涵盖从`streamlit`核心部件基本用法，到数据可视化综合应用项目。
 
 >**💡 提示**：
 >1. 本案例测试验证系统为 Windows 10，其他平台需要另行验证，如：Linux，macOS 等。
@@ -36,6 +37,7 @@ Python语言与工具学习项目案例源代码集，涵盖从Python语言与�
 
 - 操作系统：Windows 10
 - Python：3.13
+- Streamlit：1.43.1
 - 项目管理：uv，[uv使用方法见](https://mp.weixin.qq.com/s/ntCupZohe9TDpmDBo3MsYg)
 
 ---
@@ -47,13 +49,7 @@ Python语言与工具学习项目案例源代码集，涵盖从Python语言与�
 ---
 
 ## 案例
-### Python语言
 - **day01**：[Streamlit 简介与环境搭建](https://mp.weixin.qq.com/s/S4pB2dV1cJ2vOIotzKPHFg), [Source Code](./src/day01/app.py)
-- ...
-
----
-
-### 工具
 - ...
 
 ---
@@ -81,9 +77,11 @@ Python语言与工具学习项目案例源代码集，涵盖从Python语言与�
 ## 联系交流
 如果您有任何问题或建议，欢迎通过以下方式联系我们：
 - 邮件：3892493481@qq.com
-- 其他：可关注公众号私信交流。
+- 其他：可关注公众号`ICodeWR`后台交流。
 
 <div align="center">
   <img src="../../assets/ICodeWR.jpg" width=256></img>
   <p><strong>ICodeWR</strong>: 编程学习日志 </p>
 </div>
+
+---
