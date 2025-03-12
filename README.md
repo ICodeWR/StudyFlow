@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" width=256></img>
+  <img src="./assets/logo.png" width=256></img>
   <p><strong>StudyFlow</strong>: Programming Learning Journal </p>
 
 English | [简体中文](README_zh.md)
