@@ -6,6 +6,7 @@ English | [简体中文](README_zh.md)
 
 </div>
 
+![Uploading logo.png…]()
 
 
 # StudyFlow
