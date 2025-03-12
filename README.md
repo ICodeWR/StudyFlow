@@ -1,6 +1,6 @@
 ![]([assets/logo.png](https://github.com/ICodeWR/StudyFlow/blob/main/assets/logo.png))
 <div align="center">
-  <img src="./assets/1.png" width=256></img>
+  <img src="./assets/logo.png" width=256></img>
   <p><strong>StudyFlow</strong>: Programming Learning Journal </p>
 
 English | [简体中文](README_zh.md)
