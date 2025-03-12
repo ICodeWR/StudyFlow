@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" width=256></img>
+  <img src="./assets/logo.png" width=256></img>
   <p><strong>StudyFlow</strong>: Programming Learning Journal </p>
 
 English | [简体中文](README_zh.md)
@@ -30,6 +30,6 @@ If you need to communicate, here are the following ways：
 - Others：You can follow the official account and communicate in the background.
 
 <div align="center">
-  <img src="assets/ICodeWR.jpg" width=256></img>
+  <img src="https://github.com/ICodeWR/StudyFlow/blob/main/assets/ICodeWR.jpg" width=256></img>
   <p><strong>ICodeWR</strong>: Programming Learning Journal </p>
 </div>
