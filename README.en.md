@@ -2,7 +2,7 @@
   <img src="assets/logo.png" width=256></img>
   <p><strong>StudyFlow</strong>: Programming Learning Log</p>
 
-English | [简体中文](README_zh.md)
+English | [简体中文](README.md)
 
 </div>
 
