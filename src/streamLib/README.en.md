@@ -53,8 +53,8 @@ Use `uv` to synchronize dependencies. Learn, modify, debug, and run the relevant
 ---
 
 ## Examples
-
-• **day01:** Introduction to Streamlit and Environment Setup, [Source Code]
+- **day01:** [Introduction to Streamlit and Environment Setup](https://mp.weixin.qq.com/s/S4pB2dV1cJ2vOIotzKPHFg), [Source Code](./src/day01/app.py)
+- ...
 
 ---
 
