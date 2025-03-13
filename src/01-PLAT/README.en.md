@@ -48,12 +48,19 @@ Use `uv` to synchronize dependencies. Learn, modify, debug, and run the relevant
 
 ## Cases
 ### Python Language
-- **day01**: [Introduction to Streamlit and Environment Setup](https://mp.weixin.qq.com/s/S4pB2dV1cJ2vOIotzKPHFg), [Source Code](./src/day01/app.py)
+- [PEP 8 Coding Style Learning Log](https://mp.weixin.qq.com/s/chQKg8zmz_USLNlnkc1-3g)
+- [Python Strings and Application Cases](https://mp.weixin.qq.com/s/_Sw0JdCGkv8z5oD211T5ag)
 - ...
 
 ---
 
 ### Tools
+- [Pyenv Installation and Usage Guide: Windows, macOS, Ubuntu Full Platform Guide](https://mp.weixin.qq.com/s/XCHxXFL2a2qRrW-X26Vwdw)
+- [Pipenv Handbook: A Very Useful Python Virtual Environment and Package Management Tool](https://mp.weixin.qq.com/s/Fn7Fm9bYePZsnVAA3rMhtQ)
+-  [10 Minutes to Master Python Project Management! Record Python Version + Project + Library Dependency Management Tool](https://mp.weixin.qq.com/s/nG2bWO2uUWUyBeObf8A5lA)
+- [uv: A Fast and Easy-to-Use Python Package and Project Management Tool Developed in Rust](https://mp.weixin.qq.com/s/ntCupZohe9TDpmDBo3MsYg)
+- [Which Tool is Best for Packaging Python Scripts into EXE Files on Windows?](https://mp.weixin.qq.com/s/W2vUQEPmTTclVfdOyTL8JQ)
+-  [Nuitka Installation and Usage Tutorial: The New Star for Encrypting and Packaging Python Programs into EXE](https://mp.weixin.qq.com/s/XWhX4Hw2LFPvBLPOJy5UGw)
 - ...
 
 ---

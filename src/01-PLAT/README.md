@@ -48,12 +48,19 @@ Python语言与工具学习项目案例源代码集，涵盖从Python语言与�
 
 ## 案例
 ### Python语言
-- **day01**：[Streamlit 简介与环境搭建](https://mp.weixin.qq.com/s/S4pB2dV1cJ2vOIotzKPHFg), [Source Code](./src/day01/app.py)
+- [PEP 8 编码风格学习记录](https://mp.weixin.qq.com/s/chQKg8zmz_USLNlnkc1-3g)
+- [Python字符串及应用案例](https://mp.weixin.qq.com/s/_Sw0JdCGkv8z5oD211T5ag)
 - ...
 
 ---
 
 ### 工具
+- [Pyenv 安装与使用教程：Windows、macOS、Ubuntu 全平台指南](https://mp.weixin.qq.com/s/XCHxXFL2a2qRrW-X26Vwdw)
+- [pipenv手册备用：非常好用的Python虚拟环境和包管理工具](https://mp.weixin.qq.com/s/Fn7Fm9bYePZsnVAA3rMhtQ)
+- [10分钟搞定Python项目管理！记录Python版本+项目+库依赖管理神器](https://mp.weixin.qq.com/s/nG2bWO2uUWUyBeObf8A5lA)
+- [uv一个用 Rust 开发的极快、易用的 Python 包和项目管理利器](https://mp.weixin.qq.com/s/ntCupZohe9TDpmDBo3MsYg)
+- [windows环境下将python脚本打包成exe文件的工具哪个好用？](https://mp.weixin.qq.com/s/W2vUQEPmTTclVfdOyTL8JQ)
+- [Nuitka 安装使用教程：Python程序加密打包成exe新贵](https://mp.weixin.qq.com/s/XWhX4Hw2LFPvBLPOJy5UGw)
 - ...
 
 ---
