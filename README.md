@@ -21,26 +21,28 @@
 ### Python语言学习日志清单
 - [PEP 8 编码风格学习记录](https://mp.weixin.qq.com/s/chQKg8zmz_USLNlnkc1-3g)
 - [Python字符串及应用案例](https://mp.weixin.qq.com/s/_Sw0JdCGkv8z5oD211T5ag)
-- [Pyenv 安装与使用教程：Windows、macOS、Ubuntu 全平台指南](https://mp.weixin.qq.com/s/XCHxXFL2a2qRrW-X26Vwdw)
-- [pipenv手册备用：非常好用的Python虚拟环境和包管理工具](https://mp.weixin.qq.com/s/Fn7Fm9bYePZsnVAA3rMhtQ)
-- [10分钟搞定Python项目管理！记录Python版本+项目+库依赖管理神器](https://mp.weixin.qq.com/s/nG2bWO2uUWUyBeObf8A5lA)
-- [uv一个用 Rust 开发的极快、易用的 Python 包和项目管理利器](https://mp.weixin.qq.com/s/ntCupZohe9TDpmDBo3MsYg)
-- [windows环境下将python脚本打包成exe文件的工具哪个好用？](https://mp.weixin.qq.com/s/W2vUQEPmTTclVfdOyTL8JQ)
-- [Nuitka 安装使用教程：Python程序加密打包成exe新贵](https://mp.weixin.qq.com/s/XWhX4Hw2LFPvBLPOJy5UGw)
 - [用Python为自己写一个「修改PDF作者与时间」的小工具（附完整代码）](https://mp.weixin.qq.com/s/jltUa1p6pyZss88DQVl5fA)
 - [写Python脚本修改Word文件作者与时间（附完整代码）](https://mp.weixin.qq.com/s/iVmyK3XVQ8v9YsI6BI6ySA)
+### Python图像处理与数据可视化
 - [Python常用图像类库安装教程](https://mp.weixin.qq.com/s/1xJqLbzQca7fTdpx9K1m-Q)
 - [NumPy类库使用详解（含案例）](https://mp.weixin.qq.com/s/NQ6mggUmvE5wcjRKMcSloA)
 - [NumPy核心函数应用指南（附PDF原文）](https://mp.weixin.qq.com/s/w0_g_fLw-i8FzCifBMGnzw)
 - [Python图像处理之Pillow库全面学习教程：场景式项目案例实战](https://mp.weixin.qq.com/s/8o-7jCgh7tGJpN9WI2AY1Q)
 - [Matplotlib类库使用案例实践教程](https://mp.weixin.qq.com/s/qKJA-46X_ttfdOObN7f5rQ)
 - [Python数据分析利器使用教程及案例实践（附Pandas API参考）](https://mp.weixin.qq.com/s/4d_OruRaJLcx2LNLAQ1UsA)
+### Python项目工具
+- [Pyenv 安装与使用教程：Windows、macOS、Ubuntu 全平台指南](https://mp.weixin.qq.com/s/XCHxXFL2a2qRrW-X26Vwdw)
+- [pipenv手册备用：非常好用的Python虚拟环境和包管理工具](https://mp.weixin.qq.com/s/Fn7Fm9bYePZsnVAA3rMhtQ)
+- [10分钟搞定Python项目管理！记录Python版本+项目+库依赖管理神器](https://mp.weixin.qq.com/s/nG2bWO2uUWUyBeObf8A5lA)
+- [uv一个用 Rust 开发的极快、易用的 Python 包和项目管理利器](https://mp.weixin.qq.com/s/ntCupZohe9TDpmDBo3MsYg)
+- [windows环境下将python脚本打包成exe文件的工具哪个好用？](https://mp.weixin.qq.com/s/W2vUQEPmTTclVfdOyTL8JQ)
+- [Nuitka 安装使用教程：Python程序加密打包成exe新贵](https://mp.weixin.qq.com/s/XWhX4Hw2LFPvBLPOJy5UGw)
 
 ---
 
 ### Streamlit学习日志清单
 - [Streamlit 的学习计划及提纲](https://mp.weixin.qq.com/s/sg4WOKOS7f3Ge4Tzt8KmwQ)
-- [Streamlit 简介与环境搭建(Day 1)](https://mp.weixin.qq.com/s/S4pB2dV1cJ2vOIotzKPHFg) , [source code](./src/streamLib/src/day01/app.py)
+- [Streamlit 简介与环境搭建(Day 1)](https://mp.weixin.qq.com/s/S4pB2dV1cJ2vOIotzKPHFg) , [源代码](./src/streamLib/src/day01/app.py)
 
 ---
 
@@ -61,8 +63,7 @@
 
 ## 贡献者
 **感谢以下人员的贡献！**
-- [ICodeWR](https://gitcode.com/ICodeWR) - 主要开发者
-- [abel__2008](https://gitcode.com/abel__2008) - 文档贡献者
+- [ICodeWR](https://gitee.com/icodewr) - 主要开发者
 
 ## 贡献指南
 我们欢迎并感谢所有形式的贡献！请阅读 [CONTRIBUTING.md](CONTRIBUTING.md) 了解如何贡献代码、报告问题或提出建议。

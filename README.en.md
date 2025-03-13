@@ -23,20 +23,24 @@ Programming Learning Log: A collection of programming learning logs and related 
 ### Python language Learning List
 - [PEP 8 Coding Style Learning Log](https://mp.weixin.qq.com/s/chQKg8zmz_USLNlnkc1-3g)
 - [Python Strings and Application Cases](https://mp.weixin.qq.com/s/_Sw0JdCGkv8z5oD211T5ag)
-- [Pyenv Installation and Usage Guide: Windows, macOS, Ubuntu Full Platform Guide](https://mp.weixin.qq.com/s/XCHxXFL2a2qRrW-X26Vwdw)
-- [Pipenv Handbook: A Very Useful Python Virtual Environment and Package Management Tool](https://mp.weixin.qq.com/s/Fn7Fm9bYePZsnVAA3rMhtQ)
--  [10 Minutes to Master Python Project Management! Record Python Version + Project + Library Dependency Management Tool](https://mp.weixin.qq.com/s/nG2bWO2uUWUyBeObf8A5lA)
-- [uv: A Fast and Easy-to-Use Python Package and Project Management Tool Developed in Rust](https://mp.weixin.qq.com/s/ntCupZohe9TDpmDBo3MsYg)
-- [Which Tool is Best for Packaging Python Scripts into EXE Files on Windows?](https://mp.weixin.qq.com/s/W2vUQEPmTTclVfdOyTL8JQ)
--  [Nuitka Installation and Usage Tutorial: The New Star for Encrypting and Packaging Python Programs into EXE](https://mp.weixin.qq.com/s/XWhX4Hw2LFPvBLPOJy5UGw)
 - [Writing a Python Tool to Modify PDF Author and Time (Including Complete Code)](https://mp.weixin.qq.com/s/jltUa1p6pyZss88DQVl5fA)
 - [Writing a Python Script to Modify Word File Author and Time (Including Complete Code)](https://mp.weixin.qq.com/s/iVmyK3XVQ8v9YsI6BI6ySA)
+### Python Image Processing and Data Visualization
 - [Python Common Image Library Installation Tutorial](https://mp.weixin.qq.com/s/1xJqLbzQca7fTdpx9K1m-Q)
 - [NumPy Library Usage Guide (Including Cases)](https://mp.weixin.qq.com/s/NQ6mggUmvE5wcjRKMcSloA)
 - [NumPy Core Function Application Guide (Including PDF Original)](https://mp.weixin.qq.com/s/w0_g_fLw-i8FzCifBMGnzw)
 - [Python Image Processing with Pillow Library: Comprehensive Learning Tutorial with Scenario-Based Project Cases](https://mp.weixin.qq.com/s/8o-7jCgh7tGJpN9WI2AY1Q)
 - [Matplotlib Library Usage Case Practice Tutorial](https://mp.weixin.qq.com/s/qKJA-46X_ttfdOObN7f5rQ)
 - [Python Data Analysis Tool Usage Tutorial and Case Practice (Including Pandas API Reference)](https://mp.weixin.qq.com/s/4d_OruRaJLcx2LNLAQ1UsA)
+
+### Python Tools
+- [Pyenv Installation and Usage Guide: Windows, macOS, Ubuntu Full Platform Guide](https://mp.weixin.qq.com/s/XCHxXFL2a2qRrW-X26Vwdw)
+- [Pipenv Handbook: A Very Useful Python Virtual Environment and Package Management Tool](https://mp.weixin.qq.com/s/Fn7Fm9bYePZsnVAA3rMhtQ)
+-  [10 Minutes to Master Python Project Management! Record Python Version + Project + Library Dependency Management Tool](https://mp.weixin.qq.com/s/nG2bWO2uUWUyBeObf8A5lA)
+- [uv: A Fast and Easy-to-Use Python Package and Project Management Tool Developed in Rust](https://mp.weixin.qq.com/s/ntCupZohe9TDpmDBo3MsYg)
+- [Which Tool is Best for Packaging Python Scripts into EXE Files on Windows?](https://mp.weixin.qq.com/s/W2vUQEPmTTclVfdOyTL8JQ)
+-  [Nuitka Installation and Usage Tutorial: The New Star for Encrypting and Packaging Python Programs into EXE](https://mp.weixin.qq.com/s/XWhX4Hw2LFPvBLPOJy5UGw)
+
 
 ---
 
@@ -66,8 +70,7 @@ This project is licensed under the Apache License 2.0. Please refer to the accom
 
 ## Contributors  
 **We thank the following contributors for their efforts!**
-• [ICodeWR](https://gitcode.com/ICodeWR) - Main Developer  
-• [abel__2008](https://gitcode.com/abel__2008) - Documentation Contributor  
+• [ICodeWR](https://gitee.com/icodewr) - Main Developer  
 
 ## Contribution Guidelines  
 We welcome and appreciate all forms of contributions! Please read CONTRIBUTING.md to learn how to contribute code, report issues, or make suggestions.  
