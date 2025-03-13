@@ -2,7 +2,7 @@
   <img src="../../assets/logo.png" width=256></img>
 <p><strong>PLAT</strong>：Python语言与工具</p>
 
-[English](README.md) | 简体中文
+[English](README.en.md) | 简体中文
 </div>
 
 

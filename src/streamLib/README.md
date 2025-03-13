@@ -2,7 +2,7 @@
   <img src="../../assets/logo.png" width=256></img>
 <p><strong>streamLib</strong>：streamlit学习源代码 </p>
 
-[English](README.md) | 简体中文
+[English](README.en.md) | 简体中文
 </div>
 
 # streamLib
