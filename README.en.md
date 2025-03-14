@@ -25,6 +25,9 @@ Programming Learning Log: A collection of programming learning logs and related 
 - [Python Strings and Application Cases](https://mp.weixin.qq.com/s/_Sw0JdCGkv8z5oD211T5ag)
 - [Writing a Python Tool to Modify PDF Author and Time (Including Complete Code)](https://mp.weixin.qq.com/s/jltUa1p6pyZss88DQVl5fA)
 - [Writing a Python Script to Modify Word File Author and Time (Including Complete Code)](https://mp.weixin.qq.com/s/iVmyK3XVQ8v9YsI6BI6ySA)
+- [Example of using PyGame Zero](./src/PygameZeroEg/)
+- ...
+
 ### Python Image Processing and Data Visualization
 - [Python Common Image Library Installation Tutorial](https://mp.weixin.qq.com/s/1xJqLbzQca7fTdpx9K1m-Q)
 - [NumPy Library Usage Guide (Including Cases)](https://mp.weixin.qq.com/s/NQ6mggUmvE5wcjRKMcSloA)
@@ -51,8 +54,8 @@ Programming Learning Log: A collection of programming learning logs and related 
 ---
 
 ## Open Source Platforms Learning Log List
-• [First Time Using a Domestic Open Source Software Hosting Platform: GitCode](https://mp.weixin.qq.com/s/3O9QmyocDXK03aMaS0T7Rw)
-• [Learning Open Source, Using Open Source, Contributing to Open Source: A Correction on Using SSH with TortoiseGit Client to Connect to GitCode Server](https://mp.weixin.qq.com/s/2wGeWyWajaSQrQiurWVo0w)
+- [First Time Using a Domestic Open Source Software Hosting Platform: GitCode](https://mp.weixin.qq.com/s/3O9QmyocDXK03aMaS0T7Rw)
+- [Learning Open Source, Using Open Source, Contributing to Open Source: A Correction on Using SSH with TortoiseGit Client to Connect to GitCode Server](https://mp.weixin.qq.com/s/2wGeWyWajaSQrQiurWVo0w)
 
 
 ---
