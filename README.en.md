@@ -35,8 +35,10 @@ Programming Learning Log: A collection of programming learning logs and related 
 - [Python Image Processing with Pillow Library: Comprehensive Learning Tutorial with Scenario-Based Project Cases](https://mp.weixin.qq.com/s/8o-7jCgh7tGJpN9WI2AY1Q)
 - [Matplotlib Library Usage Case Practice Tutorial](https://mp.weixin.qq.com/s/qKJA-46X_ttfdOObN7f5rQ)
 - [Python Data Analysis Tool Usage Tutorial and Case Practice (Including Pandas API Reference)](https://mp.weixin.qq.com/s/4d_OruRaJLcx2LNLAQ1UsA)
+- ...
 
 ### Python Tools
+- [pip installation and usage](https://mp.weixin.qq.com/s/C0e5eht2LmiWgin6NpmEOA)
 - [Pyenv Installation and Usage Guide: Windows, macOS, Ubuntu Full Platform Guide](https://mp.weixin.qq.com/s/XCHxXFL2a2qRrW-X26Vwdw)
 - [Pipenv Handbook: A Very Useful Python Virtual Environment and Package Management Tool](https://mp.weixin.qq.com/s/Fn7Fm9bYePZsnVAA3rMhtQ)
 -  [10 Minutes to Master Python Project Management! Record Python Version + Project + Library Dependency Management Tool](https://mp.weixin.qq.com/s/nG2bWO2uUWUyBeObf8A5lA)
@@ -50,6 +52,7 @@ Programming Learning Log: A collection of programming learning logs and related 
 ### Streamlit Learning Log List
 - [Streamlit Learning Plan and Outline](https://mp.weixin.qq.com/s/sg4WOKOS7f3Ge4Tzt8KmwQ)
 - [Streamlit Introduction and Environment Setup (Day 1)](https://mp.weixin.qq.com/s/S4pB2dV1cJ2vOIotzKPHFg) , [Source Code](./src/streamLib/src/day01/app.py)
+- ...
 
 ---
 
