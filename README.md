@@ -38,6 +38,7 @@ Programming Learning Log: A collection of programming learning logs and related 
 - ...
 
 ### Python Tools
+- [pip installation and usage](https://mp.weixin.qq.com/s/C0e5eht2LmiWgin6NpmEOA)
 - [Pyenv Installation and Usage Guide: Windows, macOS, Ubuntu Full Platform Guide](https://mp.weixin.qq.com/s/XCHxXFL2a2qRrW-X26Vwdw)
 - [Pipenv Handbook: A Very Useful Python Virtual Environment and Package Management Tool](https://mp.weixin.qq.com/s/Fn7Fm9bYePZsnVAA3rMhtQ)
 -  [10 Minutes to Master Python Project Management! Record Python Version + Project + Library Dependency Management Tool](https://mp.weixin.qq.com/s/nG2bWO2uUWUyBeObf8A5lA)
