@@ -21,6 +21,7 @@
 ### Python语言学习日志清单
 - [PEP 8 编码风格学习记录](https://mp.weixin.qq.com/s/chQKg8zmz_USLNlnkc1-3g)
 - [Python字符串及应用案例](https://mp.weixin.qq.com/s/_Sw0JdCGkv8z5oD211T5ag)
+- [Python import 导入方式详解（结合 PEP 8）](https://mp.weixin.qq.com/s/at04vKr8a3Li20fJN_WviQ)
 - [用Python为自己写一个「修改PDF作者与时间」的小工具（附完整代码）](https://mp.weixin.qq.com/s/jltUa1p6pyZss88DQVl5fA)
 - [写Python脚本修改Word文件作者与时间（附完整代码）](https://mp.weixin.qq.com/s/iVmyK3XVQ8v9YsI6BI6ySA)
 - [PyGame Zero使用示例](./src/PygameZeroEg/)
