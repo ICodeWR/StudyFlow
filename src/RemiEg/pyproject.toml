@@ -1,0 +1,14 @@
+[project]
+name = "remieg"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "remi>=2022.7.27",
+    "setuptools>=76.0.0",
+]
+
+[[index]]
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+default = true

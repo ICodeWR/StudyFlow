@@ -32,7 +32,7 @@
 - [NumPy类库使用详解（含案例）](https://mp.weixin.qq.com/s/NQ6mggUmvE5wcjRKMcSloA)
 - [NumPy核心函数应用指南（附PDF原文）](https://mp.weixin.qq.com/s/w0_g_fLw-i8FzCifBMGnzw)
 - [Python图像处理之Pillow库全面学习教程：场景式项目案例实战](https://mp.weixin.qq.com/s/8o-7jCgh7tGJpN9WI2AY1Q)
-- [Matplotlib类库使用案例实践教程](https://mp.weixin.qq.com/s/qKJA-46X_ttfdOObN7f5rQ)
+- [Matplotlib类库使用案例实践教程](https://mp.weixin.qq.com/s/XguqhXdeIXR9Mr8HPg_J-w)
 - [Python数据分析利器使用教程及案例实践（附Pandas API参考）](https://mp.weixin.qq.com/s/4d_OruRaJLcx2LNLAQ1UsA)
 - ...
 

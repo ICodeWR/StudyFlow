@@ -34,7 +34,7 @@ Programming Learning Log: A collection of programming learning logs and related 
 - [NumPy Library Usage Guide (Including Cases)](https://mp.weixin.qq.com/s/NQ6mggUmvE5wcjRKMcSloA)
 - [NumPy Core Function Application Guide (Including PDF Original)](https://mp.weixin.qq.com/s/w0_g_fLw-i8FzCifBMGnzw)
 - [Python Image Processing with Pillow Library: Comprehensive Learning Tutorial with Scenario-Based Project Cases](https://mp.weixin.qq.com/s/8o-7jCgh7tGJpN9WI2AY1Q)
-- [Matplotlib Library Usage Case Practice Tutorial](https://mp.weixin.qq.com/s/qKJA-46X_ttfdOObN7f5rQ)
+- [Matplotlib Library Usage Case Practice Tutorial](https://mp.weixin.qq.com/s/XguqhXdeIXR9Mr8HPg_J-w)
 - [Python Data Analysis Tool Usage Tutorial and Case Practice (Including Pandas API Reference)](https://mp.weixin.qq.com/s/4d_OruRaJLcx2LNLAQ1UsA)
 - ...
 
@@ -42,10 +42,10 @@ Programming Learning Log: A collection of programming learning logs and related 
 - [pip installation and usage](https://mp.weixin.qq.com/s/C0e5eht2LmiWgin6NpmEOA)
 - [Pyenv Installation and Usage Guide: Windows, macOS, Ubuntu Full Platform Guide](https://mp.weixin.qq.com/s/XCHxXFL2a2qRrW-X26Vwdw)
 - [Pipenv Handbook: A Very Useful Python Virtual Environment and Package Management Tool](https://mp.weixin.qq.com/s/Fn7Fm9bYePZsnVAA3rMhtQ)
--  [10 Minutes to Master Python Project Management! Record Python Version + Project + Library Dependency Management Tool](https://mp.weixin.qq.com/s/nG2bWO2uUWUyBeObf8A5lA)
+- [10 Minutes to Master Python Project Management! Record Python Version + Project + Library Dependency Management Tool](https://mp.weixin.qq.com/s/nG2bWO2uUWUyBeObf8A5lA)
 - [uv: A Fast and Easy-to-Use Python Package and Project Management Tool Developed in Rust](https://mp.weixin.qq.com/s/ntCupZohe9TDpmDBo3MsYg)
 - [Which Tool is Best for Packaging Python Scripts into EXE Files on Windows?](https://mp.weixin.qq.com/s/W2vUQEPmTTclVfdOyTL8JQ)
--  [Nuitka Installation and Usage Tutorial: The New Star for Encrypting and Packaging Python Programs into EXE](https://mp.weixin.qq.com/s/XWhX4Hw2LFPvBLPOJy5UGw)
+- [Nuitka Installation and Usage Tutorial: The New Star for Encrypting and Packaging Python Programs into EXE](https://mp.weixin.qq.com/s/XWhX4Hw2LFPvBLPOJy5UGw)
 
 
 ---

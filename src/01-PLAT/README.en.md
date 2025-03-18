@@ -62,10 +62,10 @@ Use `uv` to synchronize dependencies. Learn, modify, debug, and run the relevant
 - [pip installation and usage](https://mp.weixin.qq.com/s/C0e5eht2LmiWgin6NpmEOA)
 - [Pyenv Installation and Usage Guide: Windows, macOS, Ubuntu Full Platform Guide](https://mp.weixin.qq.com/s/XCHxXFL2a2qRrW-X26Vwdw)
 - [Pipenv Handbook: A Very Useful Python Virtual Environment and Package Management Tool](https://mp.weixin.qq.com/s/Fn7Fm9bYePZsnVAA3rMhtQ)
--  [10 Minutes to Master Python Project Management! Record Python Version + Project + Library Dependency Management Tool](https://mp.weixin.qq.com/s/nG2bWO2uUWUyBeObf8A5lA)
+- [10 Minutes to Master Python Project Management! Record Python Version + Project + Library Dependency Management Tool](https://mp.weixin.qq.com/s/nG2bWO2uUWUyBeObf8A5lA)
 - [uv: A Fast and Easy-to-Use Python Package and Project Management Tool Developed in Rust](https://mp.weixin.qq.com/s/ntCupZohe9TDpmDBo3MsYg)
 - [Which Tool is Best for Packaging Python Scripts into EXE Files on Windows?](https://mp.weixin.qq.com/s/W2vUQEPmTTclVfdOyTL8JQ)
--  [Nuitka Installation and Usage Tutorial: The New Star for Encrypting and Packaging Python Programs into EXE](https://mp.weixin.qq.com/s/XWhX4Hw2LFPvBLPOJy5UGw)
+- [Nuitka Installation and Usage Tutorial: The New Star for Encrypting and Packaging Python Programs into EXE](https://mp.weixin.qq.com/s/XWhX4Hw2LFPvBLPOJy5UGw)
 
 
 ---
