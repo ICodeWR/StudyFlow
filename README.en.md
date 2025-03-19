@@ -33,7 +33,8 @@ Programming Learning Log: A collection of programming learning logs and related 
 - [Python Common Image Library Installation Tutorial](https://mp.weixin.qq.com/s/1xJqLbzQca7fTdpx9K1m-Q)
 - [NumPy Library Usage Guide (Including Cases)](https://mp.weixin.qq.com/s/NQ6mggUmvE5wcjRKMcSloA)
 - [NumPy Core Function Application Guide (Including PDF Original)](https://mp.weixin.qq.com/s/w0_g_fLw-i8FzCifBMGnzw)
-- [Python Image Processing with Pillow Library: Comprehensive Learning Tutorial with Scenario-Based Project Cases](https://mp.weixin.qq.com/s/8o-7jCgh7tGJpN9WI2AY1Q)
+- [Python Image Processing with Pillow Library: Comprehensive Learning Tutorial with Scenario-Based Project Cases](https://mp.weixin.qq.com/s/8o-7jCgh7tGJpN9WI2AY1Q)，[Source Code](./src/01-PLAT/PillowEg/)
+- [How to Set Chinese Fonts in the Python Imaging Library Pillow](https://mp.weixin.qq.com/s/JYDBxpwlzl_Cim_wI7-wUw)，[Source Code](./src/01-PLAT/PillowEg/pillowFont.py)
 - [Matplotlib Library Usage Case Practice Tutorial](https://mp.weixin.qq.com/s/XguqhXdeIXR9Mr8HPg_J-w)
 - [Python Data Analysis Tool Usage Tutorial and Case Practice (Including Pandas API Reference)](https://mp.weixin.qq.com/s/4d_OruRaJLcx2LNLAQ1UsA)
 - ...
@@ -51,8 +52,10 @@ Programming Learning Log: A collection of programming learning logs and related 
 ---
 
 ### Streamlit Learning Log List
-- [Streamlit Learning Plan and Outline](https://mp.weixin.qq.com/s/sg4WOKOS7f3Ge4Tzt8KmwQ)
-- [Streamlit Introduction and Environment Setup (Day 1)](https://mp.weixin.qq.com/s/S4pB2dV1cJ2vOIotzKPHFg) , [Source Code](./src/streamLib/src/day01/app.py)
+- [Python Interactive Web Application Framework Streamlit Tutorial：Streamlit Learning Plan and Outline](https://mp.weixin.qq.com/s/sg4WOKOS7f3Ge4Tzt8KmwQ)
+- [Python Interactive Web Application Framework Streamlit Tutorial：Streamlit Introduction and Environment Setup](https://mp.weixin.qq.com/s/S4pB2dV1cJ2vOIotzKPHFg) , [Source Code](./src/streamLib/src/day01/app.py)
+- [Python Interactive Web Application Framework Streamlit Tutorial: Core Components and Layout Methods](https://mp.weixin.qq.com/s/70I55nBFyw8jnALsN_9WrQ) , [Source Code](./src/streamLib/src/day02/app.py)
+- [Python Interactive Web Application Framework Streamlit Tutorial: Interactive Components](https://mp.weixin.qq.com/s/DCfHAStAx4dXhmI-Q3pwjA) , [Source Code](./src/streamLib/src/day03/app.py)
 - ...
 
 ---

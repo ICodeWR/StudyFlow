@@ -31,7 +31,8 @@
 - [Python常用图像类库安装教程](https://mp.weixin.qq.com/s/1xJqLbzQca7fTdpx9K1m-Q)
 - [NumPy类库使用详解（含案例）](https://mp.weixin.qq.com/s/NQ6mggUmvE5wcjRKMcSloA)
 - [NumPy核心函数应用指南（附PDF原文）](https://mp.weixin.qq.com/s/w0_g_fLw-i8FzCifBMGnzw)
-- [Python图像处理之Pillow库全面学习教程：场景式项目案例实战](https://mp.weixin.qq.com/s/8o-7jCgh7tGJpN9WI2AY1Q)
+- [Python图像处理之Pillow库全面学习教程：场景式项目案例实战](https://mp.weixin.qq.com/s/8o-7jCgh7tGJpN9WI2AY1Q)，[源代码](./src/01-PLAT/PillowProjects/)
+- [Python 图像库 Pillow 怎么设置中文字体](https://mp.weixin.qq.com/s/JYDBxpwlzl_Cim_wI7-wUw)，[源代码](./src/01-PLAT/PillowEg/pillowFont.py)
 - [Matplotlib类库使用案例实践教程](https://mp.weixin.qq.com/s/XguqhXdeIXR9Mr8HPg_J-w)
 - [Python数据分析利器使用教程及案例实践（附Pandas API参考）](https://mp.weixin.qq.com/s/4d_OruRaJLcx2LNLAQ1UsA)
 - ...
@@ -48,8 +49,10 @@
 ---
 
 ### Streamlit学习日志清单
-- [Streamlit 的学习计划及提纲](https://mp.weixin.qq.com/s/sg4WOKOS7f3Ge4Tzt8KmwQ)
-- [Streamlit 简介与环境搭建(Day 1)](https://mp.weixin.qq.com/s/S4pB2dV1cJ2vOIotzKPHFg) , [源代码](./src/streamLib/src/day01/app.py)
+- [Python 交互式 Web 应用框架 Streamlit 教程：Streamlit 的学习计划及提纲](https://mp.weixin.qq.com/s/sg4WOKOS7f3Ge4Tzt8KmwQ)
+- [Python 交互式 Web 应用框架 Streamlit 教程：Streamlit 简介与环境搭建](https://mp.weixin.qq.com/s/S4pB2dV1cJ2vOIotzKPHFg) , [源代码](./src/streamLib/src/day01/app.py)
+- [Python 交互式 Web 应用框架 Streamlit 教程：核心组件和布局方式](https://mp.weixin.qq.com/s/70I55nBFyw8jnALsN_9WrQ) , [源代码](./src/streamLib/src/day02/app.py)
+- [Python 交互式 Web 应用框架 Streamlit 教程：交互组件](https://mp.weixin.qq.com/s/DCfHAStAx4dXhmI-Q3pwjA) , [源代码](./src/streamLib/src/day03/app.py)
 - ...
 
 ---
