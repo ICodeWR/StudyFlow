@@ -49,7 +49,9 @@ streamlit学习案例源代码集。
 ---
 
 ## 案例
-- **day01**：[Streamlit 简介与环境搭建](https://mp.weixin.qq.com/s/S4pB2dV1cJ2vOIotzKPHFg), [Source Code](./src/day01/app.py)
+- **day01**：[Streamlit 简介与环境搭建](https://mp.weixin.qq.com/s/S4pB2dV1cJ2vOIotzKPHFg), [源代码](./src/day01/app.py)
+- **day02**：[Streamlit 核心组件和布局方式](https://mp.weixin.qq.com/s/70I55nBFyw8jnALsN_9WrQ) , [源代码](./src/day02/app.py)
+- **day03**：[Streamlit 交互组件](https://mp.weixin.qq.com/s/DCfHAStAx4dXhmI-Q3pwjA) , [源代码](./src/day03/app.py)
 - ...
 
 ---

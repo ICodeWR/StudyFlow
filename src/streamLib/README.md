@@ -53,7 +53,9 @@ Use `uv` to synchronize dependencies. Learn, modify, debug, and run the relevant
 ---
 
 ## Examples
-- **day01:** [Introduction to Streamlit and Environment Setup](https://mp.weixin.qq.com/s/S4pB2dV1cJ2vOIotzKPHFg), [Source Code](./src/day01/app.py)
+- **day01:**：[Introduction to Streamlit and Environment Setup](https://mp.weixin.qq.com/s/S4pB2dV1cJ2vOIotzKPHFg), [Source Code](./src/day01/app.py)
+- **day02**：[Streamlit Core Components and Layout Methods](https://mp.weixin.qq.com/s/70I55nBFyw8jnALsN_9WrQ), [Source Code](./src/day02/app.py)
+- **day03**：[Streamlit Interactive Components](https://mp.weixin.qq.com/s/DCfHAStAx4dXhmI-Q3pwjA), [Source Code](./src/day03/app.py)
 - ...
 
 ---
@@ -90,6 +92,12 @@ If you have any questions or suggestions, feel free to contact us through the fo
 • **Email:** 3892493481@qq.com  
 • **Other:** Follow the WeChat Official Account **ICodeWR** for backend communication.  
 
+<div align="center">
+  <img src="../../assets/ICodeWR.jpg" width=256></img>
+  <p><strong>ICodeWR</strong>: Programming Learning Journal </p>
+</div>
+
 ---
 
-This translation provides a clear and concise English version of the original document, maintaining the structure and key information while ensuring readability for an English-speaking audience.
+
+
