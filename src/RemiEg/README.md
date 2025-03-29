@@ -48,9 +48,14 @@ python .\day01\hello.py
 
 ---
 
-## Example List
-
-- [First Encounter with Remi: Easily Build Web UI with Python](https://www.toutiao.com/article/7482376566506193462/), [Source Code](./day01/hello.py)
+## Article Log
+- [Getting Started with Remi: Building Web UI Easily with Python](https://www.toutiao.com/article/7482376566506193462/), [Source Code](./day01/hello.py)  
+- [Remi Components Deep Dive: Working with Buttons, Text Fields and Labels](https://www.toutiao.com/article/7482761128204927515/), [Source Code](./day02/login_app.py)  
+- [Advanced Remi Components: Enhancing Password Input Fields](https://www.toutiao.com/article/7482771421110731273/), [Source Code](./day02/login_app2.py)  
+- [Remi Layout Management: Creating Beautiful Interfaces with HBox and VBox](https://www.toutiao.com/article/7483318595326345754/), [Source Code](./day03/user_form_app.py)  
+- [Handling Events in Remi: Implementing User Interactions](https://www.toutiao.com/article/7483863133224698420/), [Source Code](./day04/calculator_app.py)  
+- [Dynamic Updates in Remi: Real-time UI Refresh](https://www.toutiao.com/article/7484272548406968866/), [Source Code](./day05/progress_bar_app.py)  
+- [Multi-page Applications in Remi: Page Navigation and Routing](https://www.toutiao.com/article/7485034166980002355/), [Source Code](./day06/multi_page_app.py)  
 - ...
 
 

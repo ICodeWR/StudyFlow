@@ -51,9 +51,12 @@ Python语言与工具学习项目案例源代码集，涵盖从Python语言与�
 - [PEP 8 编码风格学习记录](https://mp.weixin.qq.com/s/chQKg8zmz_USLNlnkc1-3g)
 - [Python字符串及应用案例](https://mp.weixin.qq.com/s/_Sw0JdCGkv8z5oD211T5ag)
 - [Python import 导入方式详解（结合 PEP 8）](https://mp.weixin.qq.com/s/at04vKr8a3Li20fJN_WviQ)
+- [Python包管理器（pip）安装与使用](https://mp.weixin.qq.com/s/C0e5eht2LmiWgin6NpmEOA)
 - [用Python为自己写一个「修改PDF作者与时间」的小工具（附完整代码）](https://mp.weixin.qq.com/s/jltUa1p6pyZss88DQVl5fA)
 - [写Python脚本修改Word文件作者与时间（附完整代码）](https://mp.weixin.qq.com/s/iVmyK3XVQ8v9YsI6BI6ySA)
 - [PyGame Zero使用示例](../PygameZeroEg/)
+- [10个Python高效编程技巧](https://mp.weixin.qq.com/s/00q2Htdld5-_fwUVq7ZG9g)
+- [Python 使用 SQLite 数据库案例](https://mp.weixin.qq.com/s/WBgSORs_asPRPQoSdZ4QoQ)
 - ...
 
 ---
@@ -66,6 +69,7 @@ Python语言与工具学习项目案例源代码集，涵盖从Python语言与�
 - [uv一个用 Rust 开发的极快、易用的 Python 包和项目管理利器](https://mp.weixin.qq.com/s/ntCupZohe9TDpmDBo3MsYg)
 - [windows环境下将python脚本打包成exe文件的工具哪个好用？](https://mp.weixin.qq.com/s/W2vUQEPmTTclVfdOyTL8JQ)
 - [Nuitka 安装使用教程：Python程序加密打包成exe新贵](https://mp.weixin.qq.com/s/XWhX4Hw2LFPvBLPOJy5UGw)
+- [Cython 提升 Python 代码执行效率实践](https://mp.weixin.qq.com/s/xw-N3HLhwOGpt27e8002Bg)，[源代码](./src/01-PLAT/CythonTest/)
 
 ---
 

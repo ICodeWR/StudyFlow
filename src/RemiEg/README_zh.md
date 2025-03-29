@@ -8,7 +8,7 @@
 
 ## 简介
 
-Remi学习日志
+纯 Python 轻松构建 Web UI 框架 Remi 学习日志。
 
 ---
 
@@ -47,9 +47,15 @@ uv sync
 python .\day01\hello.py
 ```
 
-## 案例清单
+## 日志列表  
 
-- [初识 Remi，用 Python 轻松构建 Web UI](https://www.toutiao.com/article/7482376566506193462/)，[源代码](./day01/hello.py)
+- [初识 Remi：用 Python 轻松构建 Web UI](https://www.toutiao.com/article/7482376566506193462/)，[源代码](./day01/hello.py)  
+- [Remi 组件详解：按钮、文本框与标签的使用](https://www.toutiao.com/article/7482761128204927515/)，[源代码](./day02/login_app.py)  
+- [Remi 基础组件进阶：改进密码输入框](https://www.toutiao.com/article/7482771421110731273/)，[源代码](./day02/login_app2.py)  
+- [Remi 布局管理：使用 HBox 和 VBox 设计美观界面](https://www.toutiao.com/article/7483318595326345754/)，[源代码](./day03/user_form_app.py)  
+- [Remi 事件处理：实现用户交互功能](https://www.toutiao.com/article/7483863133224698420/)，[源代码](./day04/calculator_app.py)  
+- [Remi 动态更新：实时刷新界面内容](https://www.toutiao.com/article/7484272548406968866/)，[源代码](./day05/progress_bar_app.py)  
+- [Remi 多页面应用：实现页面切换与路由](https://www.toutiao.com/article/7485034166980002355/)，[源代码](./day06/multi_page_app.py)  
 - ...
 
 ---
