@@ -48,12 +48,16 @@ streamlit学习案例源代码集。
 
 ---
 
-## 案例
+## 日志清单
 - **day01**：[Streamlit 简介与环境搭建](https://mp.weixin.qq.com/s/S4pB2dV1cJ2vOIotzKPHFg), [源代码](./src/day01/app.py)
 - **day02**：[Streamlit 核心组件和布局方式](https://mp.weixin.qq.com/s/70I55nBFyw8jnALsN_9WrQ) , [源代码](./src/day02/app.py)
 - **day03**：[Streamlit 交互组件](https://mp.weixin.qq.com/s/DCfHAStAx4dXhmI-Q3pwjA) , [源代码](./src/day03/app.py)
-- ...
-
+- **day04**：[Streamlit 数据处理与展示教程](https://mp.weixin.qq.com/s/eh_8lpxIrE4y0yDkxp3Xig) , [源代码](./src/day04/app.py)
+- **day05**：[Streamlit 数据可视化教程](https://mp.weixin.qq.com/s/ZVOE5mIQdAMJpUE9ZRhK6A) , [源代码](./src/day05/05app.py)
+- **day06**：[Streamlit 高级可视化与仪表盘教程](https://mp.weixin.qq.com/s/pfNSoqR0_D6w0Dg-pnBEOA) , [源代码](./src/day06/06app.py)
+- **day07**：[Streamlit 会话状态与动态交互教程](https://mp.weixin.qq.com/s/K_OEU8IBEiOnSObGHREzMQ) , [源代码](./src/day07/07app.py)
+- **day08**：[Streamlit 布局优化与多页面应用教程](https://mp.weixin.qq.com/s/wjfWxqTIUfc3n1V5oCT9lw) , [源代码](./src/day08/)
+- **day09**：[Streamlit 与机器学习模型集成](https://mp.weixin.qq.com/s/IrUBIdfVCdjUY0jEw6saWg) , [源代码](./src/day09/09app.py)
 ---
 
 ## 许可证

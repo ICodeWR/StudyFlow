@@ -22,9 +22,12 @@
 - [PEP 8 编码风格学习记录](https://mp.weixin.qq.com/s/chQKg8zmz_USLNlnkc1-3g)
 - [Python字符串及应用案例](https://mp.weixin.qq.com/s/_Sw0JdCGkv8z5oD211T5ag)
 - [Python import 导入方式详解（结合 PEP 8）](https://mp.weixin.qq.com/s/at04vKr8a3Li20fJN_WviQ)
+- [Python包管理器（pip）安装与使用](https://mp.weixin.qq.com/s/C0e5eht2LmiWgin6NpmEOA)
 - [用Python为自己写一个「修改PDF作者与时间」的小工具（附完整代码）](https://mp.weixin.qq.com/s/jltUa1p6pyZss88DQVl5fA)
 - [写Python脚本修改Word文件作者与时间（附完整代码）](https://mp.weixin.qq.com/s/iVmyK3XVQ8v9YsI6BI6ySA)
 - [PyGame Zero使用示例](./src/PygameZeroEg/)
+- [10个Python高效编程技巧](https://mp.weixin.qq.com/s/00q2Htdld5-_fwUVq7ZG9g)
+- [Python 使用 SQLite 数据库案例](https://mp.weixin.qq.com/s/WBgSORs_asPRPQoSdZ4QoQ)
 - ...
 
 ### Python图像处理与数据可视化
@@ -45,15 +48,22 @@
 - [uv一个用 Rust 开发的极快、易用的 Python 包和项目管理利器](https://mp.weixin.qq.com/s/ntCupZohe9TDpmDBo3MsYg)
 - [windows环境下将python脚本打包成exe文件的工具哪个好用？](https://mp.weixin.qq.com/s/W2vUQEPmTTclVfdOyTL8JQ)
 - [Nuitka 安装使用教程：Python程序加密打包成exe新贵](https://mp.weixin.qq.com/s/XWhX4Hw2LFPvBLPOJy5UGw)
+- [Cython 提升 Python 代码执行效率实践](https://mp.weixin.qq.com/s/xw-N3HLhwOGpt27e8002Bg)，[源代码](./src/01-PLAT/CythonTest/)
 
 ---
 
-### Streamlit学习日志清单
-- [Python 交互式 Web 应用框架 Streamlit 教程：Streamlit 的学习计划及提纲](https://mp.weixin.qq.com/s/sg4WOKOS7f3Ge4Tzt8KmwQ)
-- [Python 交互式 Web 应用框架 Streamlit 教程：Streamlit 简介与环境搭建](https://mp.weixin.qq.com/s/S4pB2dV1cJ2vOIotzKPHFg) , [源代码](./src/streamLib/src/day01/app.py)
-- [Python 交互式 Web 应用框架 Streamlit 教程：核心组件和布局方式](https://mp.weixin.qq.com/s/70I55nBFyw8jnALsN_9WrQ) , [源代码](./src/streamLib/src/day02/app.py)
-- [Python 交互式 Web 应用框架 Streamlit 教程：交互组件](https://mp.weixin.qq.com/s/DCfHAStAx4dXhmI-Q3pwjA) , [源代码](./src/streamLib/src/day03/app.py)
-- ...
+### Python 交互式 Web 应用框架 Streamlit 学习日志清单
+- [Streamlit 的学习计划及提纲](https://mp.weixin.qq.com/s/sg4WOKOS7f3Ge4Tzt8KmwQ)
+- [Streamlit 和 dash 性能对比](https://mp.weixin.qq.com/s/VfN4LJR9ZqDwOzcFzns_fA)
+- [Streamlit 简介与环境搭建](https://mp.weixin.qq.com/s/S4pB2dV1cJ2vOIotzKPHFg) , [源代码](./src/streamLib/src/day01/app.py)
+- [Streamlit 核心组件和布局方式](https://mp.weixin.qq.com/s/70I55nBFyw8jnALsN_9WrQ) , [源代码](./src/streamLib/src/day02/app.py)
+- [Streamlit 交互组件](https://mp.weixin.qq.com/s/DCfHAStAx4dXhmI-Q3pwjA) , [源代码](./src/streamLib/src/day03/app.py)
+- [Streamlit 数据处理与展示](https://mp.weixin.qq.com/s/eh_8lpxIrE4y0yDkxp3Xig) , [源代码](./src/streamLib/src/day04/app.py)
+- [Streamlit 数据可视化](https://mp.weixin.qq.com/s/ZVOE5mIQdAMJpUE9ZRhK6A) , [源代码](./src/streamLib/src/day05/05app.py)
+- [Streamlit 高级可视化与仪表盘](https://mp.weixin.qq.com/s/pfNSoqR0_D6w0Dg-pnBEOA) , [源代码](./src/streamLib/src/day06/06app.py)
+- [Streamlit 会话状态与动态交互](https://mp.weixin.qq.com/s/K_OEU8IBEiOnSObGHREzMQ) , [源代码](./src/streamLib/src/day07/07app.py)
+- [Streamlit 布局优化与多页面应用](https://mp.weixin.qq.com/s/wjfWxqTIUfc3n1V5oCT9lw) , [源代码](./src/streamLib/src/day08/)
+- [Streamlit 与机器学习模型集成](https://mp.weixin.qq.com/s/IrUBIdfVCdjUY0jEw6saWg) , [源代码](./src/streamLib/src/day09/09app.py)
 
 ---
 

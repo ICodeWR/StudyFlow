@@ -24,9 +24,12 @@ Programming Learning Log: A collection of programming learning logs and related 
 - [PEP 8 Coding Style Learning Log](https://mp.weixin.qq.com/s/chQKg8zmz_USLNlnkc1-3g)
 - [Python Strings and Application Cases](https://mp.weixin.qq.com/s/_Sw0JdCGkv8z5oD211T5ag)
 - [Detailed Explanation of Python Import Methods (in accordance with PEP 8)](https://mp.weixin.qq.com/s/at04vKr8a3Li20fJN_WviQ)
+- [Installation and Usage of Python Package Manager (pip)](https://mp.weixin.qq.com/s/C0e5eht2LmiWgin6NpmEOA)
 - [Writing a Python Tool to Modify PDF Author and Time (Including Complete Code)](https://mp.weixin.qq.com/s/jltUa1p6pyZss88DQVl5fA)
 - [Writing a Python Script to Modify Word File Author and Time (Including Complete Code)](https://mp.weixin.qq.com/s/iVmyK3XVQ8v9YsI6BI6ySA)
 - [Example of using PyGame Zero](./src/PygameZeroEg/)
+- [10 Python Efficiency Tips for Programming](https://mp.weixin.qq.com/s/00q2Htdld5-_fwUVq7ZG9g)  
+- [Practical Example of Using SQLite Database in Python](https://mp.weixin.qq.com/s/WBgSORs_asPRPQoSdZ4QoQ)  
 - ...
 
 ### Python Image Processing and Data Visualization
@@ -47,23 +50,32 @@ Programming Learning Log: A collection of programming learning logs and related 
 - [uv: A Fast and Easy-to-Use Python Package and Project Management Tool Developed in Rust](https://mp.weixin.qq.com/s/ntCupZohe9TDpmDBo3MsYg)
 - [Which Tool is Best for Packaging Python Scripts into EXE Files on Windows?](https://mp.weixin.qq.com/s/W2vUQEPmTTclVfdOyTL8JQ)
 - [Nuitka Installation and Usage Tutorial: The New Star for Encrypting and Packaging Python Programs into EXE](https://mp.weixin.qq.com/s/XWhX4Hw2LFPvBLPOJy5UGw)
+- [Practical Guide to Boosting Python Code Performance with Cython](https://mp.weixin.qq.com/s/xw-N3HLhwOGpt27e8002Bg)，[源代码](./src/01-PLAT/CythonTest/)
 
 
 ---
 
-### Streamlit Learning Log List
-- [Python Interactive Web Application Framework Streamlit Tutorial：Streamlit Learning Plan and Outline](https://mp.weixin.qq.com/s/sg4WOKOS7f3Ge4Tzt8KmwQ)
-- [Python Interactive Web Application Framework Streamlit Tutorial：Streamlit Introduction and Environment Setup](https://mp.weixin.qq.com/s/S4pB2dV1cJ2vOIotzKPHFg) , [Source Code](./src/streamLib/src/day01/app.py)
-- [Python Interactive Web Application Framework Streamlit Tutorial: Core Components and Layout Methods](https://mp.weixin.qq.com/s/70I55nBFyw8jnALsN_9WrQ) , [Source Code](./src/streamLib/src/day02/app.py)
-- [Python Interactive Web Application Framework Streamlit Tutorial: Interactive Components](https://mp.weixin.qq.com/s/DCfHAStAx4dXhmI-Q3pwjA) , [Source Code](./src/streamLib/src/day03/app.py)
+### Python Interactive Web Application Framework Streamlit Learning Log Checklist
+
+- [Streamlit Learning Plan and Outline](https://mp.weixin.qq.com/s/sg4WOKOS7f3Ge4Tzt8KmwQ)  
+- [Performance comparison between Streamlit and Dash](https://mp.weixin.qq.com/s/VfN4LJR9ZqDwOzcFzns_fA)
+- [Introduction to Streamlit and Environment Setup](https://mp.weixin.qq.com/s/S4pB2dV1cJ2vOIotzKPHFg), [Source Code](./src/streamLib/src/day01/app.py)  
+- [Streamlit Core Components and Layout Methods](https://mp.weixin.qq.com/s/70I55nBFyw8jnALsN_9WrQ), [Source Code](./src/streamLib/src/day02/app.py)  
+- [Streamlit Interactive Components](https://mp.weixin.qq.com/s/DCfHAStAx4dXhmI-Q3pwjA), [Source Code](./src/streamLib/src/day03/app.py)  
+- [Streamlit Data Processing and Display](https://mp.weixin.qq.com/s/eh_8lpxIrE4y0yDkxp3Xig), [Source Code](./src/streamLib/src/day04/app.py)  
+- [Streamlit Data Visualization](https://mp.weixin.qq.com/s/ZVOE5mIQdAMJpUE9ZRhK6A), [Source Code](./src/streamLib/src/day05/05app.py)  
+- [Streamlit Advanced Visualization and Dashboards](https://mp.weixin.qq.com/s/pfNSoqR0_D6w0Dg-pnBEOA), [Source Code](./src/streamLib/src/day06/06app.py)  
+- [Streamlit Session State and Dynamic Interaction](https://mp.weixin.qq.com/s/K_OEU8IBEiOnSObGHREzMQ), [Source Code](./src/streamLib/src/day07/07app.py)  
+- [Streamlit Layout Optimization and Multi-Page Applications](https://mp.weixin.qq.com/s/wjfWxqTIUfc3n1V5oCT9lw), [Source Code](./src/streamLib/src/day08/)  
+- [Streamlit Integration with Machine Learning Models](https://mp.weixin.qq.com/s/IrUBIdfVCdjUY0jEw6saWg), [Source Code](./src/streamLib/src/day09/09app.py)
 - ...
+
 
 ---
 
 ## Open Source Platforms Learning Log List
 - [First Time Using a Domestic Open Source Software Hosting Platform: GitCode](https://mp.weixin.qq.com/s/3O9QmyocDXK03aMaS0T7Rw)
 - [Learning Open Source, Using Open Source, Contributing to Open Source: A Correction on Using SSH with TortoiseGit Client to Connect to GitCode Server](https://mp.weixin.qq.com/s/2wGeWyWajaSQrQiurWVo0w)
-
 
 ---
 

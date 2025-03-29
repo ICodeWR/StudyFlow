@@ -51,9 +51,12 @@ Use `uv` to synchronize dependencies. Learn, modify, debug, and run the relevant
 - [PEP 8 Coding Style Learning Log](https://mp.weixin.qq.com/s/chQKg8zmz_USLNlnkc1-3g)
 - [Python Strings and Application Cases](https://mp.weixin.qq.com/s/_Sw0JdCGkv8z5oD211T5ag)
 - [Detailed Explanation of Python Import Methods (in accordance with PEP 8)](https://mp.weixin.qq.com/s/at04vKr8a3Li20fJN_WviQ)
+- [Installation and Usage of Python Package Manager (pip)](https://mp.weixin.qq.com/s/C0e5eht2LmiWgin6NpmEOA)
 - [Writing a Python Tool to Modify PDF Author and Time (Including Complete Code)](https://mp.weixin.qq.com/s/jltUa1p6pyZss88DQVl5fA)
 - [Writing a Python Script to Modify Word File Author and Time (Including Complete Code)](https://mp.weixin.qq.com/s/iVmyK3XVQ8v9YsI6BI6ySA)
 - [Example of using PyGame Zero](../PygameZeroEg/)
+- [10 Python Efficiency Tips for Programming](https://mp.weixin.qq.com/s/00q2Htdld5-_fwUVq7ZG9g)  
+- [Practical Example of Using SQLite Database in Python](https://mp.weixin.qq.com/s/WBgSORs_asPRPQoSdZ4QoQ) 
 - ...
 
 ---
@@ -66,7 +69,7 @@ Use `uv` to synchronize dependencies. Learn, modify, debug, and run the relevant
 - [uv: A Fast and Easy-to-Use Python Package and Project Management Tool Developed in Rust](https://mp.weixin.qq.com/s/ntCupZohe9TDpmDBo3MsYg)
 - [Which Tool is Best for Packaging Python Scripts into EXE Files on Windows?](https://mp.weixin.qq.com/s/W2vUQEPmTTclVfdOyTL8JQ)
 - [Nuitka Installation and Usage Tutorial: The New Star for Encrypting and Packaging Python Programs into EXE](https://mp.weixin.qq.com/s/XWhX4Hw2LFPvBLPOJy5UGw)
-
+- [Practical Guide to Boosting Python Code Performance with Cython](https://mp.weixin.qq.com/s/xw-N3HLhwOGpt27e8002Bg)
 
 ---
 
