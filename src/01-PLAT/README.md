@@ -1,106 +1,104 @@
 <div align="center">
   <img src="../../assets/logo.png" width=256></img>
-  <p><strong>PLAT</strong>: Python Language and Tools </p>
+<p><strong>PLAT</strong>：Python语言与工具</p>
 
-English | [简体中文](README_zh.md)
-
+[English](README.en.md) | 简体中文
 </div>
+
 
 # PLAT
 
-Python Language and Tools Learning Case Source Code:
+Python语言与工具学习案例源代码。
 
-## Table of Contents
+## 目录
 
-1. [Introduction](#introduction)
-2. [Environment](#environment)
-3. [Usage](#usage)
-4. [Cases](#cases)
-5. [License](#license)
-6. [Contributors](#contributors)
-7. [Contribution Guidelines](#contribution-guidelines)
-8. [Contact and Communication](#contact-and-communication)
+1. [简介](#简介)
+3. [环境](#环境)
+4. [使用](#使用)
+2. [案例](#案例)
+6. [许可证](#许可证)
+5. [贡献者](#贡献者)
+5. [贡献指南](#贡献指南)
+7. [联系交流](#联系交流)
 
-## Introduction
+## 简介
 
-A collection of source code examples for learning Python language and tools, covering basic usage and techniques.
+Python语言与工具学习项目案例源代码集，涵盖从Python语言与工具的基本用法，使用技巧等。
 
->**💡 Notes**:
->1. The test and verification system for these cases is Windows 10. Other platforms, such as Linux and macOS, need to be verified separately.
->2. These cases are demonstration codes based on open-source and publicly available materials. The author does not guarantee the stability or absolute correctness of the code, and users are responsible for any consequences.
->3. This collection will be updated periodically as the author continues to learn.
-
----
-
-## Environment
-
-- Operating System: Windows 10
-- Python: 3.13
-- Project Management: `uv`, [Refer to `uv` usage](https://mp.weixin.qq.com/s/ntCupZohe9TDpmDBo3MsYg)
+>**💡 提示**：
+>1. 本案例测试验证系统为 Windows 10，其他平台需要另行验证，如：Linux，macOS 等。
+>2. 本案例为根据开源、公开资料的学习演示性代码，作者不保证案例代码的稳定性和完全正确性，具体后果由使用者自行负责。
+>3. 本案例集合会随着作者的学习，不定期持续更新。
 
 ---
 
-## Usage
+## 环境
 
-Use `uv` to synchronize dependencies. Learn, modify, debug, and run the relevant case code according to your learning progress.
+- 操作系统：Windows 10
+- Python：3.13
+- 项目管理：uv，[uv使用方法见](https://mp.weixin.qq.com/s/ntCupZohe9TDpmDBo3MsYg)
 
 ---
 
-## Cases
-### Python Language
-- [PEP 8 Coding Style Learning Log](https://mp.weixin.qq.com/s/chQKg8zmz_USLNlnkc1-3g)
-- [Python Strings and Application Cases](https://mp.weixin.qq.com/s/_Sw0JdCGkv8z5oD211T5ag)
-- [Detailed Explanation of Python Import Methods (in accordance with PEP 8)](https://mp.weixin.qq.com/s/at04vKr8a3Li20fJN_WviQ)
-- [Installation and Usage of Python Package Manager (pip)](https://mp.weixin.qq.com/s/C0e5eht2LmiWgin6NpmEOA)
-- [Writing a Python Tool to Modify PDF Author and Time (Including Complete Code)](https://mp.weixin.qq.com/s/jltUa1p6pyZss88DQVl5fA)
-- [Writing a Python Script to Modify Word File Author and Time (Including Complete Code)](https://mp.weixin.qq.com/s/iVmyK3XVQ8v9YsI6BI6ySA)
-- [Example of using PyGame Zero](../PygameZeroEg/)
-- [10 Python Efficiency Tips for Programming](https://mp.weixin.qq.com/s/00q2Htdld5-_fwUVq7ZG9g)  
-- [Practical Example of Using SQLite Database in Python](https://mp.weixin.qq.com/s/WBgSORs_asPRPQoSdZ4QoQ) 
+## 使用
+
+使用 uv 同步依赖，根据学习进度学习、修改、调试、运行相关案例代码。
+
+---
+
+## 案例
+### Python语言
+- [PEP 8 编码风格学习记录](https://mp.weixin.qq.com/s/chQKg8zmz_USLNlnkc1-3g)
+- [Python字符串及应用案例](https://mp.weixin.qq.com/s/_Sw0JdCGkv8z5oD211T5ag)
+- [Python import 导入方式详解（结合 PEP 8）](https://mp.weixin.qq.com/s/at04vKr8a3Li20fJN_WviQ)
+- [Python包管理器（pip）安装与使用](https://mp.weixin.qq.com/s/C0e5eht2LmiWgin6NpmEOA)
+- [用Python为自己写一个「修改PDF作者与时间」的小工具（附完整代码）](https://mp.weixin.qq.com/s/jltUa1p6pyZss88DQVl5fA)
+- [写Python脚本修改Word文件作者与时间（附完整代码）](https://mp.weixin.qq.com/s/iVmyK3XVQ8v9YsI6BI6ySA)
+- [PyGame Zero使用示例](../PygameZeroEg/)
+- [10个Python高效编程技巧](https://mp.weixin.qq.com/s/00q2Htdld5-_fwUVq7ZG9g)
+- [Python 使用 SQLite 数据库案例](https://mp.weixin.qq.com/s/WBgSORs_asPRPQoSdZ4QoQ)
 - ...
 
 ---
 
-### Tools
-- [pip installation and usage](https://mp.weixin.qq.com/s/C0e5eht2LmiWgin6NpmEOA)
-- [Pyenv Installation and Usage Guide: Windows, macOS, Ubuntu Full Platform Guide](https://mp.weixin.qq.com/s/XCHxXFL2a2qRrW-X26Vwdw)
-- [Pipenv Handbook: A Very Useful Python Virtual Environment and Package Management Tool](https://mp.weixin.qq.com/s/Fn7Fm9bYePZsnVAA3rMhtQ)
-- [10 Minutes to Master Python Project Management! Record Python Version + Project + Library Dependency Management Tool](https://mp.weixin.qq.com/s/nG2bWO2uUWUyBeObf8A5lA)
-- [uv: A Fast and Easy-to-Use Python Package and Project Management Tool Developed in Rust](https://mp.weixin.qq.com/s/ntCupZohe9TDpmDBo3MsYg)
-- [Which Tool is Best for Packaging Python Scripts into EXE Files on Windows?](https://mp.weixin.qq.com/s/W2vUQEPmTTclVfdOyTL8JQ)
-- [Nuitka Installation and Usage Tutorial: The New Star for Encrypting and Packaging Python Programs into EXE](https://mp.weixin.qq.com/s/XWhX4Hw2LFPvBLPOJy5UGw)
-- [Practical Guide to Boosting Python Code Performance with Cython](https://mp.weixin.qq.com/s/xw-N3HLhwOGpt27e8002Bg)
+### 工具
+- [Python包管理器（pip）安装与使用](https://mp.weixin.qq.com/s/C0e5eht2LmiWgin6NpmEOA)
+- [Pyenv 安装与使用教程：Windows、macOS、Ubuntu 全平台指南](https://mp.weixin.qq.com/s/XCHxXFL2a2qRrW-X26Vwdw)
+- [pipenv手册备用：非常好用的Python虚拟环境和包管理工具](https://mp.weixin.qq.com/s/Fn7Fm9bYePZsnVAA3rMhtQ)
+- [10分钟搞定Python项目管理！记录Python版本+项目+库依赖管理神器](https://mp.weixin.qq.com/s/nG2bWO2uUWUyBeObf8A5lA)
+- [uv一个用 Rust 开发的极快、易用的 Python 包和项目管理利器](https://mp.weixin.qq.com/s/ntCupZohe9TDpmDBo3MsYg)
+- [windows环境下将python脚本打包成exe文件的工具哪个好用？](https://mp.weixin.qq.com/s/W2vUQEPmTTclVfdOyTL8JQ)
+- [Nuitka 安装使用教程：Python程序加密打包成exe新贵](https://mp.weixin.qq.com/s/XWhX4Hw2LFPvBLPOJy5UGw)
+- [Cython 提升 Python 代码执行效率实践](https://mp.weixin.qq.com/s/xw-N3HLhwOGpt27e8002Bg)，[源代码](./src/01-PLAT/CythonTest/)
 
 ---
 
-## License
-This project is licensed under the [Apache License 2.0](LICENSE). For more details, please refer to the [LICENSE](LICENSE) file.
+## 许可证
+本项目采用 [Apache License 2.0](LICENSE) 许可。详情请参阅 [LICENSE](LICENSE) 文件。
 
 ---
 
-## Contributors
-**We thank the following contributors for their efforts!**
-- [ICodeWR](https://gitcode.com/ICodeWR) - Main Developer
-- [abel__2008](https://gitcode.com/abel__2008) - Documentation Contributor
+## 贡献者
+**感谢以下人员的贡献！**
+- [ICodeWR](https://gitcode.com/ICodeWR) - 主要开发者
+- [abel__2008](https://gitcode.com/abel__2008) - 文档贡献者
+
+## 贡献指南
+我们欢迎并感谢所有形式的贡献！请阅读 [CONTRIBUTING.md](../../CONTRIBUTING.md) 了解如何贡献代码、报告问题或提出建议。
 
 ---
 
-## Contribution Guidelines
-We welcome and appreciate all forms of contributions! Please read [CONTRIBUTING.md](../../CONTRIBUTING.md) to learn how to contribute code, report issues, or make suggestions.
+## 行为准则
+我们遵循 [行为准则](../../CODE_OF_CONDUCT.md) 来维护一个友好和包容的社区环境。欢迎所有贡献者共同努力，保持这个空间的积极与健康。
 
 ---
 
-## Code of Conduct
-We follow the [Code of Conduct](../../CODE_OF_CONDUCT.md) to maintain a friendly and inclusive community environment. All contributors are encouraged to work together to keep this space positive and healthy.
-
----
-
-## Contact and Communication
-If you have any questions or suggestions, feel free to contact us through the following channels:
-- Email: 3892493481@qq.com
-- Other: Follow the WeChat Official Account **ICodeWR** for backend communication.
+## 联系交流
+如果您有任何问题或建议，欢迎通过以下方式联系我们：
+- 邮件：3892493481@qq.com
+- 其他：可关注公众号私信交流。
 
 <div align="center">
   <img src="../../assets/ICodeWR.jpg" width=256></img>
-  <p><strong>ICodeWR</strong>: Programming Learning Journal </p>
+  <p><strong>ICodeWR</strong>: 编程学习日志 </p>
 </div>

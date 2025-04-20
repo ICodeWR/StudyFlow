@@ -1,14 +1,14 @@
 <div align="center">
   <img src="../../../assets/logo.png" width=256></img>
-  <p><strong>PillowEg</strong>: Source code for Pillow(PIL) learning examples </p>
+  <p><strong>matplotsEg</strong>: Matplotlib image library case source code </p>
 
-English | [简体中文](README_zh.md)
+English | [简体中文](README.md)
 
 </div>
 
 ## Introduction
 
-Pillow(PIL) Learning Log
+Matplotlib Image Library Learning Log [Matplotlib Image Library Case-based Learning Guide, with Detailed API Guide](https://mp.weixin.qq.com/s/XguqhXdeIXR9Mr8HPg_J-w) Case Source Code.
 
 ---
 
@@ -16,38 +16,17 @@ Pillow(PIL) Learning Log
 
 - Operating System: Windows 10
 - Python: 3.13
-- Dependency Management: `uv`
+- Matplotlib: 3.10.0
+- NumPy: 2.2.3
+- Pandas: 2.2.3
 - Pillow: 11.1.0
+
 ---
 
 ## Usage
 
-1. Use `uv` to install dependencies, [uv usage reference](https://mp.weixin.qq.com/s/ntCupZohe9TDpmDBo3MsYg).
-
-Navigate to the `PillowEg` directory in the terminal and execute the following commands:
-
-```bash
-# Sync project dependencies
-uv sync
-
-# Activate the virtual environment
-.\.venv\Scripts\activate
-```
-
-2. Use `python xxx.py` to execute the source code
-
-Run the code of the example you want to debug in the virtual environment, for example:
-
-```bash
-# Execute imageConvert.py
-python imageConvert.py
-```
-
----
-
-## Learning Log
-- [Python Image Processing with Pillow Library: Comprehensive Learning Tutorial with Scenario-Based Project Cases](https://mp.weixin.qq.com/s/8o-7jCgh7tGJpN9WI2AY1Q)
-- [How to Set Chinese Fonts in the Python Imaging Library Pillow](https://mp.weixin.qq.com/s/JYDBxpwlzl_Cim_wI7-wUw)
+1. Install the required libraries.
+2. Execute the source code using `python xxx.py`.
 
 ---
 

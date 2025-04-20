@@ -1,63 +1,60 @@
 <div align="center">
   <img src="../../../assets/logo.png" width=256></img>
-  <p><strong>matplotsEg</strong>: Matplotlib image library case source code </p>
+<p><strong>matplotsEg</strong>：Matplotlib图像库案例源代码</p>
 
-English | [简体中文](README_zh.md)
-
+[English](README.en.md) | 简体中文
 </div>
 
-## Introduction
 
-Matplotlib Image Library Learning Log [Matplotlib Image Library Case-based Learning Guide, with Detailed API Guide](https://mp.weixin.qq.com/s/XguqhXdeIXR9Mr8HPg_J-w) Case Source Code.
+## 简介
 
----
-
-## Environment
-
-- Operating System: Windows 10
-- Python: 3.13
-- Matplotlib: 3.10.0
-- NumPy: 2.2.3
-- Pandas: 2.2.3
-- Pillow: 11.1.0
+Matplotlib图像库学习日志[Matplotlib图像库案例式学习指南，附详细API指南](https://mp.weixin.qq.com/s/XguqhXdeIXR9Mr8HPg_J-w)案例源代码。
 
 ---
 
-## Usage
+## 环境
 
-1. Install the required libraries.
-2. Execute the source code using `python xxx.py`.
-
----
-
-## License
-This project is licensed under the [Apache License 2.0](LICENSE). For more details, please refer to the [LICENSE](LICENSE) file.
-
----
-
-## Contributors
-**We thank the following contributors for their efforts!**
-- [ICodeWR](https://gitcode.com/ICodeWR) - Main Developer
-- [abel__2008](https://gitcode.com/abel__2008) - Documentation Contributor
+- 操作系统：Windows 10
+- Python：3.13
+- matplotlib：3.10.0 
+- numpy：2.2.3
+- pandas：2.2.3
+- pillow：11.1.0
 
 ---
 
-## Contribution Guidelines
-We welcome and appreciate all forms of contributions! Please read [CONTRIBUTING.md](../../CONTRIBUTING.md) to learn how to contribute code, report issues, or make suggestions.
+## 使用
+
+1. 安装依赖库
+2. 使用 `python xxx.py` 执行源代码
 
 ---
 
-## Code of Conduct
-We follow the [Code of Conduct](../../CODE_OF_CONDUCT.md) to maintain a friendly and inclusive community environment. All contributors are encouraged to work together to keep this space positive and healthy.
+## 许可证
+本项目采用 [Apache License 2.0](LICENSE) 许可。详情请参阅 [LICENSE](LICENSE) 文件。
 
 ---
 
-## Contact and Communication
-If you have any questions or suggestions, feel free to contact us through the following channels:
-- Email: 3892493481@qq.com
-- Other: Follow the WeChat Official Account **ICodeWR** for backend communication.
+## 贡献者
+**感谢以下人员的贡献！**
+- [ICodeWR](https://gitcode.com/ICodeWR) - 主要开发者
+
+## 贡献指南
+我们欢迎并感谢所有形式的贡献！请阅读 [CONTRIBUTING.md](../../CONTRIBUTING.md) 了解如何贡献代码、报告问题或提出建议。
+
+---
+
+## 行为准则
+我们遵循 [行为准则](../../CODE_OF_CONDUCT.md) 来维护一个友好和包容的社区环境。欢迎所有贡献者共同努力，保持这个空间的积极与健康。
+
+---
+
+## 联系交流
+如果您有任何问题或建议，欢迎通过以下方式联系我们：
+- 邮件：3892493481@qq.com
+- 其他：可关注公众号私信交流。
 
 <div align="center">
   <img src="../../../assets/ICodeWR.jpg" width=256></img>
-  <p><strong>ICodeWR</strong>: Programming Learning Journal </p>
+  <p><strong>ICodeWR</strong>: 编程学习日志 </p>
 </div>
