@@ -108,8 +108,6 @@ class MultiPageApp(App):
     def show_page(self, page):
         # 清空根容器的内容（除了导航栏）
         if self.curr_page is not None:
-            # print("----curr_page:", self.curr_page)
-            # self.curr_page = page
             self.root_container.remove_child(self.curr_page)
 
         # 显示目标页面

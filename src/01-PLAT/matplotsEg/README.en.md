@@ -2,7 +2,7 @@
   <img src="../../../assets/logo.png" width=256></img>
   <p><strong>matplotsEg</strong>: Matplotlib image library case source code </p>
 
-English | [简体中文](README_zh.md)
+English | [简体中文](README.md)
 
 </div>
 

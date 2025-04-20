@@ -20,6 +20,7 @@
 
 ### Python语言学习日志清单
 - [PEP 8 编码风格学习记录](https://mp.weixin.qq.com/s/chQKg8zmz_USLNlnkc1-3g)
+- [Python新手快速搞懂变量、常量与数据类型](https://mp.weixin.qq.com/s/4lRz33FSDszHz3RjXHoB1g)
 - [Python字符串及应用案例](https://mp.weixin.qq.com/s/_Sw0JdCGkv8z5oD211T5ag)
 - [Python import 导入方式详解（结合 PEP 8）](https://mp.weixin.qq.com/s/at04vKr8a3Li20fJN_WviQ)
 - [Python包管理器（pip）安装与使用](https://mp.weixin.qq.com/s/C0e5eht2LmiWgin6NpmEOA)
@@ -28,6 +29,7 @@
 - [PyGame Zero使用示例](./src/PygameZeroEg/)
 - [10个Python高效编程技巧](https://mp.weixin.qq.com/s/00q2Htdld5-_fwUVq7ZG9g)
 - [Python 使用 SQLite 数据库案例](https://mp.weixin.qq.com/s/WBgSORs_asPRPQoSdZ4QoQ)
+- [JSON 与 Python 交互完全指南](https://mp.weixin.qq.com/s/xomZsqgev6UfmAjEQcfJeA)
 - ...
 
 ### Python图像处理与数据可视化
@@ -64,7 +66,19 @@
 - [Streamlit 会话状态与动态交互](https://mp.weixin.qq.com/s/K_OEU8IBEiOnSObGHREzMQ) , [源代码](./src/streamLib/src/day07/07app.py)
 - [Streamlit 布局优化与多页面应用](https://mp.weixin.qq.com/s/wjfWxqTIUfc3n1V5oCT9lw) , [源代码](./src/streamLib/src/day08/)
 - [Streamlit 与机器学习模型集成](https://mp.weixin.qq.com/s/IrUBIdfVCdjUY0jEw6saWg) , [源代码](./src/streamLib/src/day09/09app.py)
+- [Streamlit高级功能与扩展教程](https://mp.weixin.qq.com/s/RLtMjYARaMVI_8YQBYqBFw) , [源代码](./src/streamLib/src/day10)
 
+---
+
+### Panel 学习日志清单
+- [Panel交互Web框架入门](https://mp.weixin.qq.com/s/2kCo2A6LADgo3Q7hcX0alQ)，[源代码](./src/panelEg/day01/day01.py)
+- [Panel 部署选项详解](https://mp.weixin.qq.com/s/z0k-_NotsddfkjQNFrHRFA)
+- [Panel 基本组件详解](https://mp.weixin.qq.com/s/jGxQqE69bnNA6aOC9YI2pQ)，[源代码](./src/panelEg/day02/registration_form.py)
+- [Panel 数据展示组件详解](https://mp.weixin.qq.com/s/EDt6ce3tJ80TxYQsD4m7bw)，[源代码](./src/panelEg/day03/sales_dashboard.py)
+- [Panel 布局组件详解](https://mp.weixin.qq.com/s/ddsZv1ld-MmEoFLdVCPVCg)，[源代码](./src/panelEg/day04/crm.py)
+- [Panel 交互功能：回调函数详解](https://mp.weixin.qq.com/s/_x87em4vXnOBJIz52OWlgQ)，[源代码](./src/panelEg/day05/database.py)
+- [Panel 交互功能：响应式编程详解](https://mp.weixin.qq.com/s/5CDmNWhCvRKa1KlAb2ywlg)，[源代码](./src/panelEg/day06/smart_home.py)
+...
 ---
 
 ### 开源平台学习日志清单
