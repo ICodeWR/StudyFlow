@@ -21,8 +21,17 @@
 ### Python语言学习日志清单
 - [PEP 8 编码风格学习记录](https://mp.weixin.qq.com/s/chQKg8zmz_USLNlnkc1-3g)
 - [Python新手快速搞懂变量、常量与数据类型](https://mp.weixin.qq.com/s/4lRz33FSDszHz3RjXHoB1g)
+- [Python基本数据类型与变量详细教程](https://mp.weixin.qq.com/s/K3PEdRauKCjSRIpG_qgMvA)
+- [Python变量及其作用域](https://mp.weixin.qq.com/s/2yr4ozN5M3IHlNpfzx-L9Q)
+- [Python分支语句实用教程](https://mp.weixin.qq.com/s/JGQRZlxkwyBcf-4L6KJDKg)
+- [Python列表从基础到高阶实战](https://mp.weixin.qq.com/s/Ga08ZZLEN8AaRoVdcdjH-A)
+- [Python列表切片操作详解](https://mp.weixin.qq.com/s/ithsz6Lc3vf9rcpQVJh1CQ)
 - [Python字符串及应用案例](https://mp.weixin.qq.com/s/_Sw0JdCGkv8z5oD211T5ag)
+- [Python字典应用详解](https://mp.weixin.qq.com/s/zo8gDoYjeq2FUcIzA_TwHg)
 - [Python import 导入方式详解（结合 PEP 8）](https://mp.weixin.qq.com/s/at04vKr8a3Li20fJN_WviQ)
+- [Python时间日期模块time，datetime使用详解及高阶使用技巧](https://mp.weixin.qq.com/s/kIv0NdpEE1mQijtvRtiLcA)
+- [Python时间日期编程实战](https://mp.weixin.qq.com/s/2yg-HZsmY4AqjLs3eDy4LA)
+- [Python面向对象编程(OOP)教程](https://mp.weixin.qq.com/s/y3hxgUYHVMTV9nyhtr324g)
 - [Python包管理器（pip）安装与使用](https://mp.weixin.qq.com/s/C0e5eht2LmiWgin6NpmEOA)
 - [用Python为自己写一个「修改PDF作者与时间」的小工具（附完整代码）](https://mp.weixin.qq.com/s/jltUa1p6pyZss88DQVl5fA)
 - [写Python脚本修改Word文件作者与时间（附完整代码）](https://mp.weixin.qq.com/s/iVmyK3XVQ8v9YsI6BI6ySA)
@@ -30,6 +39,8 @@
 - [10个Python高效编程技巧](https://mp.weixin.qq.com/s/00q2Htdld5-_fwUVq7ZG9g)
 - [Python 使用 SQLite 数据库案例](https://mp.weixin.qq.com/s/WBgSORs_asPRPQoSdZ4QoQ)
 - [JSON 与 Python 交互完全指南](https://mp.weixin.qq.com/s/xomZsqgev6UfmAjEQcfJeA)
+- [Python JSON库性能与功能对比：从标准库到高性能替代方案](https://mp.weixin.qq.com/s/0VNH9AB2RyVdASRC-ovqpQ)
+- [Python"一切皆对象"哲学解析与编程实践](https://mp.weixin.qq.com/s/MFwfMFLixTSTn3124TST2A)
 - ...
 
 ### Python图像处理与数据可视化
@@ -40,6 +51,7 @@
 - [Python 图像库 Pillow 怎么设置中文字体](https://mp.weixin.qq.com/s/JYDBxpwlzl_Cim_wI7-wUw)，[源代码](./src/01-PLAT/PillowEg/pillowFont.py)
 - [Matplotlib类库使用案例实践教程](https://mp.weixin.qq.com/s/XguqhXdeIXR9Mr8HPg_J-w)
 - [Python数据分析利器使用教程及案例实践（附Pandas API参考）](https://mp.weixin.qq.com/s/4d_OruRaJLcx2LNLAQ1UsA)
+- [老陈醋生产质量分析项目设计与实现](https://mp.weixin.qq.com/s/TMGHA_RYRfK9n2djMdD1zg)，[源代码](./src/01-PLAT/pyDV/Vinegar%20Quality%20Analysis%20System.py)
 - ...
 
 ### Python项目工具
@@ -51,6 +63,12 @@
 - [windows环境下将python脚本打包成exe文件的工具哪个好用？](https://mp.weixin.qq.com/s/W2vUQEPmTTclVfdOyTL8JQ)
 - [Nuitka 安装使用教程：Python程序加密打包成exe新贵](https://mp.weixin.qq.com/s/XWhX4Hw2LFPvBLPOJy5UGw)
 - [Cython 提升 Python 代码执行效率实践](https://mp.weixin.qq.com/s/xw-N3HLhwOGpt27e8002Bg)，[源代码](./src/01-PLAT/CythonTest/)
+- [Python调试全攻略：从print到高级技巧](https://mp.weixin.qq.com/s/ygJ02OhaGHZjNKSKoEnang)
+- [pdb调试器的高级命令用法](https://mp.weixin.qq.com/s/2w0PrK5_OO1exjBKuUoMag)
+- [pdb条件断点的更多应用场景](https://mp.weixin.qq.com/s/ifbBNrNw-gNBs9HjQZYVKw)
+- [pdb临时断点使用注意事项](https://mp.weixin.qq.com/s/TauDmJshEa6zc_EnXkFwAA)
+- [pdb动态表达式求值的优势](https://mp.weixin.qq.com/s/lFxf0Svuz7eiAXKZep5vZQ)
+- [无需编写前端代码，全栈Python Web应用开发框架选型指南](https://mp.weixin.qq.com/s/oDVYRJZXFN918Iukecd_Mw)
 
 ---
 
@@ -67,6 +85,7 @@
 - [Streamlit 布局优化与多页面应用](https://mp.weixin.qq.com/s/wjfWxqTIUfc3n1V5oCT9lw) , [源代码](./src/streamLib/src/day08/)
 - [Streamlit 与机器学习模型集成](https://mp.weixin.qq.com/s/IrUBIdfVCdjUY0jEw6saWg) , [源代码](./src/streamLib/src/day09/09app.py)
 - [Streamlit高级功能与扩展教程](https://mp.weixin.qq.com/s/RLtMjYARaMVI_8YQBYqBFw) , [源代码](./src/streamLib/src/day10)
+- [用Streamlit打造交互式鸢尾花分类器](https://mp.weixin.qq.com/s/Q290dhAaZNPba0RUB7eNpw) , [源代码](./src/streamLib/src/day09/sklearnTest.py)
 
 ---
 
@@ -78,12 +97,30 @@
 - [Panel 布局组件详解](https://mp.weixin.qq.com/s/ddsZv1ld-MmEoFLdVCPVCg)，[源代码](./src/panelEg/day04/crm.py)
 - [Panel 交互功能：回调函数详解](https://mp.weixin.qq.com/s/_x87em4vXnOBJIz52OWlgQ)，[源代码](./src/panelEg/day05/database.py)
 - [Panel 交互功能：响应式编程详解](https://mp.weixin.qq.com/s/5CDmNWhCvRKa1KlAb2ywlg)，[源代码](./src/panelEg/day06/smart_home.py)
-...
+- [Panel 交互功能，状态管理详解](https://mp.weixin.qq.com/s/eGyFYsZ-ALSfhKOsXCW-hA)，[源代码](./src/panelEg/day07/E-commerce_shopping_cart.py)
+- [Panel数据可视化集成(与Matplotlib集成)指南，显示股票K线图案例](https://mp.weixin.qq.com/s/hWddhza93udaM9X0hkNa0w)，[源代码](./src/panelEg/day08/stock_kline_dashboard.py)
+- [Panel数据可视化集成（Bokeh集成）指南](https://mp.weixin.qq.com/s/BgsJd_SO0c_fpdo4Pq2cRg)
+- [Panel数据可视化集成（Plotly集成）指南](https://mp.weixin.qq.com/s/X6D93QrOTwIzZ9Yj7_e-uw)，[源代码](./src/panelEg/day09/plotly_kline.py)
+- [Panel数据可视化集成（Altair、Vega集成）指南](https://mp.weixin.qq.com/s/3RT2Am7jpP-ig1GUYBYF7Q)，[源代码](./src/panelEg/day10)
+- [Panel高级功能，自定义组件](https://mp.weixin.qq.com/s/7vbiYpsmCr6olwuOyky3Fw)，[源代码](./src/panelEg/day11)
+- [Panel高级功能，主题与样式定制指南](https://mp.weixin.qq.com/s/dEpmJK_lTCfy9YjEiE962A)
+- [Panel最佳实践与调试：代码组织指南](https://mp.weixin.qq.com/s/IeGfNzdGKx7Wju9C6iv9Eg)
+- [Panel最佳实践与调试：测试与调试](https://mp.weixin.qq.com/s/Eumg0Sc2ZsMl1Nh6w0xmrA)
 ---
+
+### NiceGUI 学习日志清单
+- [NiceGUI入门实用教程](https://mp.weixin.qq.com/s/2dP9SulcU4WNq04ufh7jCg)，[源代码](./src/niceguiEg/src/01)
+- [NiceGUI交互组件-输入类组件](https://mp.weixin.qq.com/s/xxbhRCrTpNySdtJ_GEJbqA)，[源代码](./src/niceguiEg/src/02/inputEg.py)
+- [NiceGUI交互组件-选择类组件](https://mp.weixin.qq.com/s/44PROtW1WJjiUoUW-LOqEw)，[源代码](./src/niceguiEg/src/02/selectEg.py)
+- [NiceGUI交互组件-按钮类组件](https://mp.weixin.qq.com/s/h2ZNfog1Lo03qZ1pJ92sPw)，[源代码](./src/niceguiEg/src/02/selectEg.py)
+- [NiceGUI核心组件-表格的静态与动态加载](https://mp.weixin.qq.com/s/MPIjOwRG9N09NXAeY8nCDQ)，[源代码](./src/niceguiEg/src/02/employee.py)
+
+
 
 ### 开源平台学习日志清单
 - [第一次使用国内开源软件托管平台：gitcode](https://mp.weixin.qq.com/s/3O9QmyocDXK03aMaS0T7Rw)
 - [学开源、用开源、做开源：使用SSH方式用TortoiseGit客户端连接GitCode服务器的一个更正](https://mp.weixin.qq.com/s/2wGeWyWajaSQrQiurWVo0w)
+- [《简单统计学》：从幸存者偏差到统计思维，数学应用的逻辑陷阱与启示](https://mp.weixin.qq.com/s/rJUm4N8pg80LvkcwXKPj6g)
 
 ---
 
