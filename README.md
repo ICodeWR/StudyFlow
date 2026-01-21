@@ -2,7 +2,6 @@
   <img src="assets/logo.png" width=256></img>
 <p><strong>StudyFlow</strong>：编程学习日志</p>
 
-[English](README.en.md) | 简体中文
 </div>
 
 # StudyFlow
@@ -47,11 +46,11 @@
 - [Python常用图像类库安装教程](https://mp.weixin.qq.com/s/1xJqLbzQca7fTdpx9K1m-Q)
 - [NumPy类库使用详解（含案例）](https://mp.weixin.qq.com/s/NQ6mggUmvE5wcjRKMcSloA)
 - [NumPy核心函数应用指南（附PDF原文）](https://mp.weixin.qq.com/s/w0_g_fLw-i8FzCifBMGnzw)
-- [Python图像处理之Pillow库全面学习教程：场景式项目案例实战](https://mp.weixin.qq.com/s/8o-7jCgh7tGJpN9WI2AY1Q)，[源代码](./src/01-PLAT/PillowProjects/)
-- [Python 图像库 Pillow 怎么设置中文字体](https://mp.weixin.qq.com/s/JYDBxpwlzl_Cim_wI7-wUw)，[源代码](./src/01-PLAT/PillowEg/pillowFont.py)
+- [Python图像处理之Pillow库全面学习教程：场景式项目案例实战](https://mp.weixin.qq.com/s/8o-7jCgh7tGJpN9WI2AY1Q)，[源代码](./src/PillowEg/)
+- [Python 图像库 Pillow 怎么设置中文字体](https://mp.weixin.qq.com/s/JYDBxpwlzl_Cim_wI7-wUw)，[源代码](./src/PillowEg/pillowFont.py)
 - [Matplotlib类库使用案例实践教程](https://mp.weixin.qq.com/s/XguqhXdeIXR9Mr8HPg_J-w)
 - [Python数据分析利器使用教程及案例实践（附Pandas API参考）](https://mp.weixin.qq.com/s/4d_OruRaJLcx2LNLAQ1UsA)
-- [老陈醋生产质量分析项目设计与实现](https://mp.weixin.qq.com/s/TMGHA_RYRfK9n2djMdD1zg)，[源代码](./src/01-PLAT/pyDV/Vinegar%20Quality%20Analysis%20System.py)
+- [老陈醋生产质量分析项目设计与实现](https://mp.weixin.qq.com/s/TMGHA_RYRfK9n2djMdD1zg)，[源代码](./src/pyDV/Vinegar%20Quality%20Analysis%20System.py)
 - ...
 
 ### Python项目工具
@@ -62,7 +61,7 @@
 - [uv一个用 Rust 开发的极快、易用的 Python 包和项目管理利器](https://mp.weixin.qq.com/s/ntCupZohe9TDpmDBo3MsYg)
 - [windows环境下将python脚本打包成exe文件的工具哪个好用？](https://mp.weixin.qq.com/s/W2vUQEPmTTclVfdOyTL8JQ)
 - [Nuitka 安装使用教程：Python程序加密打包成exe新贵](https://mp.weixin.qq.com/s/XWhX4Hw2LFPvBLPOJy5UGw)
-- [Cython 提升 Python 代码执行效率实践](https://mp.weixin.qq.com/s/xw-N3HLhwOGpt27e8002Bg)，[源代码](./src/01-PLAT/CythonTest/)
+- [Cython 提升 Python 代码执行效率实践](https://mp.weixin.qq.com/s/xw-N3HLhwOGpt27e8002Bg)，[源代码](./src/CythonTest/)
 - [Python调试全攻略：从print到高级技巧](https://mp.weixin.qq.com/s/ygJ02OhaGHZjNKSKoEnang)
 - [pdb调试器的高级命令用法](https://mp.weixin.qq.com/s/2w0PrK5_OO1exjBKuUoMag)
 - [pdb条件断点的更多应用场景](https://mp.weixin.qq.com/s/ifbBNrNw-gNBs9HjQZYVKw)
