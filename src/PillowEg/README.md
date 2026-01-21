@@ -1,32 +1,52 @@
 <div align="center">
   <img src="../../../assets/logo.png" width=256></img>
-<p><strong>matplotsEg</strong>：Matplotlib图像库案例源代码</p>
+<p><strong>PillowEg</strong>：Pillow(PIL)学习案例源代码</p>
 
-[English](README.en.md) | 简体中文
 </div>
 
 
 ## 简介
 
-Matplotlib图像库学习日志[Matplotlib图像库案例式学习指南，附详细API指南](https://mp.weixin.qq.com/s/XguqhXdeIXR9Mr8HPg_J-w)案例源代码。
+Pillow(PIL)学习日志
 
 ---
 
 ## 环境
 
 - 操作系统：Windows 10
-- Python：3.13
-- matplotlib：3.10.0 
-- numpy：2.2.3
-- pandas：2.2.3
-- pillow：11.1.0
+- Python:3.13
+- 依赖库管理：`uv`
+- pillow:11.1.0
 
 ---
 
+
 ## 使用
 
-1. 安装依赖库
+1. 使用`uv`安装依赖库，[uv使用参考](https://mp.weixin.qq.com/s/ntCupZohe9TDpmDBo3MsYg)。
+
+在终端中进入`PillowEg`目录，执行如下命令：
+
+```bash
+# 同步项目依赖库
+uv sync
+
+# 激活虚拟环境
+.\.venv\Scripts\activate
+```
+
 2. 使用 `python xxx.py` 执行源代码
+
+在虚拟环境中执行需要调试的案例的代码，如：
+
+```bash
+# 执行 imageConvert.py
+python imageConvert.py
+```
+
+## 学习日志
+- [Python图像处理之Pillow库全面学习教程：场景式项目案例实战](https://mp.weixin.qq.com/s/8o-7jCgh7tGJpN9WI2AY1Q)
+- [Python 图像库 Pillow 怎么设置中文字体](https://mp.weixin.qq.com/s/JYDBxpwlzl_Cim_wI7-wUw)
 
 ---
 

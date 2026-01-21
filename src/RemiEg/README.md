@@ -2,7 +2,6 @@
   <img src="../../assets/logo.png" width=256></img>
 <p><strong>RemiEg</strong>：Remi学习案例源代码</p>
 
-[English](README.en.md) | 简体中文
 </div>
 
 
