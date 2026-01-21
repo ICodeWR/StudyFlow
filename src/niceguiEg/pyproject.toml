@@ -5,9 +5,25 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "akshare>=1.16.79",
-    "nicegui[all,financial]>=2.15.0",
+    "akshare>=1.17.7",
+    "black>=25.1.0",
+    "cryptography>=46.0.2",
+    "isort>=6.0.1",
+    "markdown>=3.8.2",
+    "moviepy>=2.2.1",
+    "nicegui[highcharts,matplotlib]==2.20.0",
     "pandas>=2.2.3",
+    "pillow>=11.2.1",
     "plotly>=6.0.1",
     "pyecharts>=2.0.8",
+    "pygments>=2.19.1",
+    "python-magic>=0.4.27",
+    "python-magic-bin>=0.4.14",
+    "wait-for2>=0.3.2",
 ]
+
+
+[[tool.uv.index]]
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+default = true
+
