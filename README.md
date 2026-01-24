@@ -111,8 +111,6 @@
 - [Python内置模块types：动态类型创建和内置类型名称详解](https://mp.weixin.qq.com/s/kGY841H4Ggz5OmV31hi8sw)
 - [Python内置模块socket详解：低层级的网络接口](https://mp.weixin.qq.com/s/h62Y8SKEMDgy3LpQ98HByQ)
 - [Python Click模块：命令行参数解析利器](https://mp.weixin.qq.com/s/XMF35b63gNm6Ip4y9mjPag)
-
-
 - [一文吃透 Python AST：解锁代码底层的语法树逻辑，看懂Python代码的本质](https://mp.weixin.qq.com/s/YF-YC--kuXhpRp9PVYULGg)
 
 - [Python包管理器（pip）安装与使用](https://mp.weixin.qq.com/s/C0e5eht2LmiWgin6NpmEOA)
@@ -128,6 +126,7 @@
 - [Python 高性能 JSON 方案：orjson（比内置库快 8-10 倍）实操指南](https://mp.weixin.qq.com/s/9LuH3OuOcWPVFdaXsw6jcA)
 - [Python"一切皆对象"哲学解析与编程实践](https://mp.weixin.qq.com/s/MFwfMFLixTSTn3124TST2A)
 - [Python语言设计哲学](https://mp.weixin.qq.com/s/qK5uk_BdID49b2RrO6LdYg)
+- [Pythonic 代码之道——Python之父：代码被读的次数远多于被写的次数](https://mp.weixin.qq.com/s/hRd11UG-pHeYJOYw98CFug)
 
 - ...
 
@@ -179,10 +178,12 @@
 
 ### Python项目工具
 - [Python包管理器（pip）安装与使用](https://mp.weixin.qq.com/s/C0e5eht2LmiWgin6NpmEOA)
+- [Python 包管理工具深度对比与选型参考（2026 年实测）](https://mp.weixin.qq.com/s/DpUOI5z8z60lkznSRwrYmQ)
 - [Pyenv 安装与使用教程：Windows、macOS、Ubuntu 全平台指南](https://mp.weixin.qq.com/s/XCHxXFL2a2qRrW-X26Vwdw)
 - [pipenv手册备用：非常好用的Python虚拟环境和包管理工具](https://mp.weixin.qq.com/s/Fn7Fm9bYePZsnVAA3rMhtQ)
 - [10分钟搞定Python项目管理！记录Python版本+项目+库依赖管理神器](https://mp.weixin.qq.com/s/nG2bWO2uUWUyBeObf8A5lA)
 - [uv一个用 Rust 开发的极快、易用的 Python 包和项目管理利器](https://mp.weixin.qq.com/s/ntCupZohe9TDpmDBo3MsYg)
+- [Poetry 依赖分组（Dev Dependencies）学习日志](https://mp.weixin.qq.com/s/i-0toDkWHiuanBE-7Xzlfw)
 - [windows环境下将python脚本打包成exe文件的工具哪个好用？](https://mp.weixin.qq.com/s/W2vUQEPmTTclVfdOyTL8JQ)
 - [Nuitka 安装使用教程：Python程序加密打包成exe新贵](https://mp.weixin.qq.com/s/XWhX4Hw2LFPvBLPOJy5UGw)
 - [Cython 提升 Python 代码执行效率实践](https://mp.weixin.qq.com/s/xw-N3HLhwOGpt27e8002Bg)，[源代码](./src/CythonTest/)
